@@ -1,0 +1,719 @@
+text,theme,polarity,predicted_polarity
+Après le palais du facteur nous voici à la halte qui est un restaurant correct. </s> restaurant,restaurant,0,0
+Le patron nous accueille très chaleureusement et c'est sa femme qui cuisine. </s> patron,patron,2,2
+Le prix est un peu élevé pour un repas qui n'a pas nécessité toute une implication du début à la fin. </s> repas,repas,1,0
+"Des pizzas locales que vous ne mangerez pas ailleurs, accommodant les spécialités du coin. </s> pizzas",pizzas,2,2
+Très bon accueil </s> accueil,accueil,2,2
+Le cadre et le personnel sont agréables. </s> cadre,cadre,2,2
+Le cadre et le personnel sont agréables. </s> personnel,personnel,2,2
+"Par contre l'attente est interminable pour une salade dont la sauce est industrielle, et des ravioles dans un bain de crème pas cuite. </s> attente",attente,1,1
+"Par contre l'attente est interminable pour une salade dont la sauce est industrielle, et des ravioles dans un bain de crème pas cuite. </s> ravioles",ravioles,1,1
+"Par contre l'attente est interminable pour une salade dont la sauce est industrielle, et des ravioles dans un bain de crème pas cuite. </s> sauce",sauce,1,1
+"Par contre l'attente est interminable pour une salade dont la sauce est industrielle, et des ravioles dans un bain de crème pas cuite. </s> crème",crème,1,1
+"Au centre de ce tout petit village, on ne s'attendait pas à manger aussi bien sur une terrasse agréable. </s> terrasse",terrasse,2,2
+Service plaisant. </s> Service,Service,2,2
+"Salade fanée, vin moyen, gratin de raviolis mangeable. </s> Salade",Salade,1,1
+"Salade fanée, vin moyen, gratin de raviolis mangeable. </s> vin",vin,0,1
+"Salade fanée, vin moyen, gratin de raviolis mangeable. </s> gratin de raviolis",gratin de raviolis,0,0
+Bonnes glaces. </s> glaces,glaces,2,2
+Terrasse négligée. </s> Terrasse,Terrasse,1,1
+"C'est dommage, l'emplacement est idéal et le service plutôt sympa mais ça ne fait pas tout! </s> emplacement",emplacement,2,2
+"C'est dommage, l'emplacement est idéal et le service plutôt sympa mais ça ne fait pas tout! </s> service",service,2,2
+"Si vous êtes en vacances, si vous avez –beaucoup- de temps à perdre tout en regardant les serveuses et serveurs (au demeurant charmants) virevolter comme des mouches ne sachant quoi faire ni pour qui faire (1 heure pour 3 côtelettes froides, et, le lendemain, ¾ d’heures pour 3 glaces jamais arrivées… !), longue attente accompagnée par une musique horripilante (boum tchic, boum tchic, sans cesse). </s> serveuses",serveuses,1,1
+"Si vous êtes en vacances, si vous avez –beaucoup- de temps à perdre tout en regardant les serveuses et serveurs (au demeurant charmants) virevolter comme des mouches ne sachant quoi faire ni pour qui faire (1 heure pour 3 côtelettes froides, et, le lendemain, ¾ d’heures pour 3 glaces jamais arrivées… !), longue attente accompagnée par une musique horripilante (boum tchic, boum tchic, sans cesse). </s> musique",musique,1,1
+"Si vous êtes en vacances, si vous avez –beaucoup- de temps à perdre tout en regardant les serveuses et serveurs (au demeurant charmants) virevolter comme des mouches ne sachant quoi faire ni pour qui faire (1 heure pour 3 côtelettes froides, et, le lendemain, ¾ d’heures pour 3 glaces jamais arrivées… !), longue attente accompagnée par une musique horripilante (boum tchic, boum tchic, sans cesse). </s> attente",attente,1,1
+"Si vous êtes en vacances, si vous avez –beaucoup- de temps à perdre tout en regardant les serveuses et serveurs (au demeurant charmants) virevolter comme des mouches ne sachant quoi faire ni pour qui faire (1 heure pour 3 côtelettes froides, et, le lendemain, ¾ d’heures pour 3 glaces jamais arrivées… !), longue attente accompagnée par une musique horripilante (boum tchic, boum tchic, sans cesse). </s> côtelettes",côtelettes,1,1
+"Si vous êtes en vacances, si vous avez –beaucoup- de temps à perdre tout en regardant les serveuses et serveurs (au demeurant charmants) virevolter comme des mouches ne sachant quoi faire ni pour qui faire (1 heure pour 3 côtelettes froides, et, le lendemain, ¾ d’heures pour 3 glaces jamais arrivées… !), longue attente accompagnée par une musique horripilante (boum tchic, boum tchic, sans cesse). </s> serveurs",serveurs,1,1
+"On est rassuré « la patronne, interpellée, va faire des enquêtes » (sic), bref c’est PARFAIT. </s> patronne",patronne,1,1
+Dommage le cadre est sympa. </s> cadre,cadre,2,2
+"Un début de soirée qui commence dans un bon resto, comme les 1er fois une Virgin Colada à 6.50e pour se mettre en appétit et un accueil toujours très chaleureux du patron et de sa femme. </s> resto",resto,2,2
+"Un début de soirée qui commence dans un bon resto, comme les 1er fois une Virgin Colada à 6.50e pour se mettre en appétit et un accueil toujours très chaleureux du patron et de sa femme. </s> accueil",accueil,2,2
+"Un début de soirée qui commence dans un bon resto, comme les 1er fois une Virgin Colada à 6.50e pour se mettre en appétit et un accueil toujours très chaleureux du patron et de sa femme. </s> patron",patron,2,2
+"Un début de soirée qui commence dans un bon resto, comme les 1er fois une Virgin Colada à 6.50e pour se mettre en appétit et un accueil toujours très chaleureux du patron et de sa femme. </s> femme",femme,2,2
+Le pavé de Saumon est extra mais pour changer je teste la poêlée de noix de st Jacques à 22euros avec en gratin du jour (pomme de terre et patate douce ) le mariage sympathique et frites . </s> pavé de Saumon,pavé de Saumon,2,2
+Le pavé de Saumon est extra mais pour changer je teste la poêlée de noix de st Jacques à 22euros avec en gratin du jour (pomme de terre et patate douce ) le mariage sympathique et frites . </s> gratin du jour,gratin du jour,2,2
+Le pavé de Saumon est extra mais pour changer je teste la poêlée de noix de st Jacques à 22euros avec en gratin du jour (pomme de terre et patate douce ) le mariage sympathique et frites . </s> poêlée de noix de st Jacques,poêlée de noix de st Jacques,2,2
+"Que du bonheur dans l'assiette, la cuisson de mes noix sont parfaites, légèrement nacrées à l'intérieur, moelleuses à souhait... la,sauce crème légère. </s> assiette",assiette,2,2
+"Que du bonheur dans l'assiette, la cuisson de mes noix sont parfaites, légèrement nacrées à l'intérieur, moelleuses à souhait... la,sauce crème légère. </s> noix",noix,2,2
+"Que du bonheur dans l'assiette, la cuisson de mes noix sont parfaites, légèrement nacrées à l'intérieur, moelleuses à souhait... la,sauce crème légère. </s> sauce crème légère",sauce crème légère,2,2
+Je pars très satisfaite de mon plat très bon. </s> plat,plat,2,2
+Une adresse à mettre dans mon top five. </s> adresse,adresse,2,2
+Bonne cuisine créole. </s> cuisine créole,cuisine créole,2,2
+"Le service est rapide et assez froid, mais les assiettes sont bien garnies. </s> service",service,0,2
+"Le service est rapide et assez froid, mais les assiettes sont bien garnies. </s> assiettes",assiettes,2,2
+"Le restaurant se trouvant au-dessus du marché, l'ambiance est garantie. </s> ambiance",ambiance,2,2
+"Le restaurant se trouvant au-dessus du marché, l'ambiance est garantie. </s> restaurant",restaurant,2,2
+L'apéro est étonnant : on vous sert une bouteille de 1 litre de rhum et une bouteille de sucre canne liquide. </s> apéro,apéro,0,1
+Un service impeccable et des cocktails ahurissant. </s> service,service,2,2
+Un service impeccable et des cocktails ahurissant. </s> cocktails,cocktails,2,2
+Mais le summum fut l'arrivée des entrées. </s> entrées,entrées,2,1
+Le foi gras est le meilleur de l'île. </s> foi gras,foi gras,2,2
+Le carpaccio de st jacques sauvages est divin. </s> carpaccio de st jacques sauvages,carpaccio de st jacques sauvages,2,2
+Puis est arrivée la pluma de pata negra avec son incroyable purée a l'huile de truffe. </s> purée a l'huile de truffe,purée a l'huile de truffe,2,2
+Merci rodolphe pour ce repas incroyable. </s> repas,repas,2,2
+"La carte est -au premier abord- plutôt attrayante, mais c'est sans compter sur l'indisponibilité de nombreux aliments (lambi, marlin et thon ce soir là), et les prix hallucinants d'autres (notamment les ""plateaux"" de fruits de mer, qui ne sont en fait que de petites assiettes). </s> carte",carte,2,2
+"La carte est -au premier abord- plutôt attrayante, mais c'est sans compter sur l'indisponibilité de nombreux aliments (lambi, marlin et thon ce soir là), et les prix hallucinants d'autres (notamment les ""plateaux"" de fruits de mer, qui ne sont en fait que de petites assiettes). </s> aliments",aliments,1,1
+"La carte est -au premier abord- plutôt attrayante, mais c'est sans compter sur l'indisponibilité de nombreux aliments (lambi, marlin et thon ce soir là), et les prix hallucinants d'autres (notamment les ""plateaux"" de fruits de mer, qui ne sont en fait que de petites assiettes). </s> ""plateaux"" de fruits de mer","""plateaux"" de fruits de mer",1,1
+"La carte est -au premier abord- plutôt attrayante, mais c'est sans compter sur l'indisponibilité de nombreux aliments (lambi, marlin et thon ce soir là), et les prix hallucinants d'autres (notamment les ""plateaux"" de fruits de mer, qui ne sont en fait que de petites assiettes). </s> ""plateaux"" de fruits de mer","""plateaux"" de fruits de mer",1,1
+"La carte est -au premier abord- plutôt attrayante, mais c'est sans compter sur l'indisponibilité de nombreux aliments (lambi, marlin et thon ce soir là), et les prix hallucinants d'autres (notamment les ""plateaux"" de fruits de mer, qui ne sont en fait que de petites assiettes). </s> aliments",aliments,1,1
+"Mon choix s'est donc porté sur des pâtes aux fruits de mer (2 moules surcuites, 3 saint jacques décongelées, et beaucoup trop d'ail). </s> moules",moules,1,1
+"Mon choix s'est donc porté sur des pâtes aux fruits de mer (2 moules surcuites, 3 saint jacques décongelées, et beaucoup trop d'ail). </s> saint jacques",saint jacques,1,1
+"Mon choix s'est donc porté sur des pâtes aux fruits de mer (2 moules surcuites, 3 saint jacques décongelées, et beaucoup trop d'ail). </s> pâtes aux fruits de mer",pâtes aux fruits de mer,1,1
+"Salle très bruyante (on n'arrivait plus à s'entendre), mais service efficace. </s> service",service,2,2
+"Salle très bruyante (on n'arrivait plus à s'entendre), mais service efficace. </s> Salle",Salle,1,1
+"Le cadre est somptueux, le repas est très correct.. </s> cadre",cadre,2,2
+"Le cadre est somptueux, le repas est très correct.. </s> repas",repas,2,2
+De bonnes lasagnes et un café gourmand agréable.. </s> lasagnes,lasagnes,2,2
+De bonnes lasagnes et un café gourmand agréable.. </s> café gourmand,café gourmand,2,2
+Mais si le service très décontracté est sympathique.. </s> service,service,2,2
+Escalope milanaise panée sur un côté seulement et plein d'huile. </s> Escalope milanaise,Escalope milanaise,1,1
+Entrecôte avec plus de nerfs que de viande et j'en passe. </s> Entrecôte,Entrecôte,1,1
+un resto qui ravira les papilles avec des produits très bien cuisinés. </s> produits,produits,2,2
+"mais une catastrophe côté service : on a été oublié dans un coin, par contre, les tables de droite et de gauche ont eu droit à tous les égards (faut être américains ou famille nombreuse pour être intéressant faut croire!) </s> service",service,1,1
+"on n'a pas eu de seau à glace pour le vin blanc, pas de pain durant le repas, on a dû se lever pour interpeler les serveuses qui ne nous jetaient même pas un regard, on a énormément attendu entre les plats qu'on veuille bien daigner nous débarasser les assiettes vides... bref! </s> serveuses",serveuses,1,1
+"L'endroit est très beau, l'assiette est divine, les vins bouleversants, ajoutez à cela l'enthousiasme contagieux du patron : que demander de plus ? </s> endroit",endroit,2,2
+"L'endroit est très beau, l'assiette est divine, les vins bouleversants, ajoutez à cela l'enthousiasme contagieux du patron : que demander de plus ? </s> assiette",assiette,2,2
+"L'endroit est très beau, l'assiette est divine, les vins bouleversants, ajoutez à cela l'enthousiasme contagieux du patron : que demander de plus ? </s> vins",vins,2,2
+"On est si bien à l'Art dit Vin, on y passe de bons moments :) </s> Art dit Vin",Art dit Vin,2,2
+"accueil sympa par 2 sénior""e""s qui mettent à l'aise </s> accueil",accueil,2,2
+Le rapport qualité prix est au top avec une cuisine locale et une climatisation manuelle qui nécessite une explication </s> cuisine,cuisine,2,2
+"Pour éviter une trop grosse demande incompatible avec leur taille de four , le souffle au grand margnier ne figure pas a la carte aussi prévoir de le commander en début de repas </s> carte",carte,0,1
+"Une originalité :les légumes sont comptés à part , sans doute pour ne pas renchérir le prix des plats </s> légumes",légumes,0,0
+"Une originalité :les légumes sont comptés à part , sans doute pour ne pas renchérir le prix des plats </s> plats",plats,0,0
+Un restaurant a l'ancienne qui a bien du charme </s> restaurant,restaurant,2,2
+Un restaurant a l'ancienne qui a bien du charme </s> restaurant,restaurant,2,2
+Les fruits de mer en entrée étaient dégoûtants (sont-ils frais?). </s> fruits de mer,fruits de mer,1,1
+"Les chipirons à l'encre étaient sucrés et insipides (sûrement congelés), l'assiette du pêcheur un peu mieux, mais on sent que rien n'est frais, ni préparé sur place et qu'ils utilisent des produits de mauvaise qualité. </s> chipirons à l'encre",chipirons à l'encre,1,1
+"Les chipirons à l'encre étaient sucrés et insipides (sûrement congelés), l'assiette du pêcheur un peu mieux, mais on sent que rien n'est frais, ni préparé sur place et qu'ils utilisent des produits de mauvaise qualité. </s> assiette du pêcheur",assiette du pêcheur,0,0
+"Les chipirons à l'encre étaient sucrés et insipides (sûrement congelés), l'assiette du pêcheur un peu mieux, mais on sent que rien n'est frais, ni préparé sur place et qu'ils utilisent des produits de mauvaise qualité. </s> produits",produits,1,1
+Les desserts étaient mangeables. </s> desserts,desserts,0,0
+Le service ne venait pas vraiment relever le niveau. </s> service,service,1,1
+"Nous avons pris l'assiette decouverte à 20 euros et nous n'avons pas été deçus Anchois, axoa, pommes de terre fromage salade ect.. copieux et surtout bon Produits frais, bien cuisinés La sangria était parfaite.. </s> assiette decouverte",assiette decouverte,2,2
+"Nous avons pris l'assiette decouverte à 20 euros et nous n'avons pas été deçus Anchois, axoa, pommes de terre fromage salade ect.. copieux et surtout bon Produits frais, bien cuisinés La sangria était parfaite.. </s> Produits",Produits,2,2
+"Nous avons pris l'assiette decouverte à 20 euros et nous n'avons pas été deçus Anchois, axoa, pommes de terre fromage salade ect.. copieux et surtout bon Produits frais, bien cuisinés La sangria était parfaite.. </s> assiette decouverte",assiette decouverte,2,2
+"Nous avons pris l'assiette decouverte à 20 euros et nous n'avons pas été deçus Anchois, axoa, pommes de terre fromage salade ect.. copieux et surtout bon Produits frais, bien cuisinés La sangria était parfaite.. </s> sangria",sangria,2,2
+restaurant dans une charmante petite rue piétonne de Saint Jean de Luz. </s> rue piétonne,rue piétonne,2,2
+"surprise avant même de passer la commande : une araignée était logée dans le menu !!! Aussitôt l'apéritif servi, la serveuse nous a apporté les soupes de poissons ! </s> serveuse",serveuse,1,2
+erreur vite rectifiée par le patron. </s> patron,patron,2,1
+"J'ai commandé un magret bleu avec des frites, celui ci est arrivé servi avec du gratin de pommes de terre. </s> magret",magret,1,1
+"il est reparti en cuisine pour être servi avec des frites et à son retour devant moi, il était froid !!! franchement pas le restaurant où je retournerai ! </s> restaurant",restaurant,1,1
+En plus la serveuse n'est même pas agréable et souriante </s> serveuse,serveuse,1,1
+"Le cadre, dîner au bord de la piscine. </s> cadre",cadre,2,2
+La cuisine qui mériterait largement une étoile au Michelin. </s> cuisine,cuisine,2,2
+Ce restaurant sur le port à attirer notre attention par la sobriété de sa carte. </s> carte,carte,2,2
+L'apéro à été un peu accéléré par un serveur visiblement pressé de finir son service et qui est venu nous proposer de goûter le vin alors que nous commentions seulement à goûter les toast de tapenade. </s> serveur,serveur,1,1
+( repris rapidement par le chef de salle) </s> chef de salle,chef de salle,0,2
+En entrée un assortiment de charcuterie corse et des beignets de fromages excellentes. </s> assortiment de charcuterie corse,assortiment de charcuterie corse,2,2
+En entrée un assortiment de charcuterie corse et des beignets de fromages excellentes. </s> beignets de fromages,beignets de fromages,2,2
+Puis une dorade du jour avec petits légumes : joliment présenté et très savoureux. </s> dorade du jour,dorade du jour,2,2
+Puis une dorade du jour avec petits légumes : joliment présenté et très savoureux. </s> dorade du jour,dorade du jour,2,2
+Au final une bonne table à découvrir! </s> table,table,2,2
+service mauvais </s> service,service,1,1
+Vieux mouton en guise d'agneau </s> agneau,agneau,1,1
+assiette corse pire que sandwich SNCF </s> assiette corse,assiette corse,1,1
+assiette de fromage au singulier ..... </s> assiette de fromage,assiette de fromage,1,2
+J'y suis allé plusieurs fois l'an passé c'était très correcte mais à priori quelque chose a changé en cuisine par rapport à l'an dernier car c'est devenu un vrai cauchemar. </s> cuisine,cuisine,1,1
+"Pizza avec la pate caoutchouc et pas cuite, entrecôte hyper grasse j'ai dû en manger 1/4. </s> Pizza",Pizza,1,1
+"Pizza avec la pate caoutchouc et pas cuite, entrecôte hyper grasse j'ai dû en manger 1/4. </s> entrecôte",entrecôte,1,1
+"Pizza avec la pate caoutchouc et pas cuite, entrecôte hyper grasse j'ai dû en manger 1/4. </s> pate",pate,1,1
+"Très bel endroit pour une pause déjeuner, à l'abri du soleil, avec un petit air rafraîchissant et vue sur le port. </s> vue",vue,2,2
+"Très bel endroit pour une pause déjeuner, à l'abri du soleil, avec un petit air rafraîchissant et vue sur le port. </s> endroit",endroit,2,2
+"Très bel endroit pour une pause déjeuner, à l'abri du soleil, avec un petit air rafraîchissant et vue sur le port. </s> endroit",endroit,2,2
+"Cuisine simple mais bonne, Marco vous accueille très bien, vous donne des bonnes adresses si vous demandez. </s> Cuisine",Cuisine,2,2
+"Cuisine simple mais bonne, Marco vous accueille très bien, vous donne des bonnes adresses si vous demandez. </s> Cuisine",Cuisine,0,2
+C'est un endroit très agréable. </s> endroit,endroit,2,2
+"On y a manger le soir, sa terrasse est sur une place très jolie avec son églises. </s> place",place,2,2
+"On y a manger le soir, sa terrasse est sur une place très jolie avec son églises. </s> terrasse",terrasse,2,2
+"Le repas était très bon l'entrée, le plat et le dessert. </s> repas",repas,2,2
+"Juste un blême le serveur ou le directeur (j'ai pas compris ) avec son cigare il se reconnaîtra (tant pis), et il parle trop !!!! </s> serveur",serveur,1,1
+"Juste un blême le serveur ou le directeur (j'ai pas compris ) avec son cigare il se reconnaîtra (tant pis), et il parle trop !!!! </s> directeur",directeur,1,1
+Honnêtement le cadre du restaurant est plutôt sympathique. </s> cadre,cadre,2,2
+"Le service et l'accueil est ""jeune"" et professionnel. </s> service",service,2,2
+"Le service et l'accueil est ""jeune"" et professionnel. </s> accueil",accueil,2,2
+La carte vous propose un large choix type brasserie. </s> carte,carte,2,2
+"Le Burger aux fromages est bien présenté, mais la tranche de fromage est égale au Macdonald... Aucune saveur et intérêt... </s> Burger aux fromages",Burger aux fromages,2,2
+"Le Burger aux fromages est bien présenté, mais la tranche de fromage est égale au Macdonald... Aucune saveur et intérêt... </s> tranche de fromage",tranche de fromage,1,1
+"La sauce roquefort trop crémeuse, pas de goût... </s> sauce roquefort",sauce roquefort,1,1
+La mousse au chocolat est en réalité une ganache pleine d'eau... </s> mousse au chocolat,mousse au chocolat,1,1
+Vraiment dommage vu le quartier et le cadre. </s> quartier,quartier,2,2
+Vraiment dommage vu le quartier et le cadre. </s> cadre,cadre,2,2
+De l'accueil à l'assiette en passant par le rythme du service. </s> accueil,accueil,2,2
+De l'accueil à l'assiette en passant par le rythme du service. </s> assiette,assiette,2,2
+De l'accueil à l'assiette en passant par le rythme du service. </s> service,service,2,2
+Le décor est magnifique et c'est mieux de réserver une table au second étage où se situe la verrière ouverte en été. </s> décor,décor,2,2
+Le décor est magnifique et c'est mieux de réserver une table au second étage où se situe la verrière ouverte en été. </s> verrière,verrière,2,2
+La cuisine est à la hauteur de la réputation de ce restaurant. </s> cuisine,cuisine,2,2
+La cuisine est à la hauteur de la réputation de ce restaurant. </s> restaurant,restaurant,2,2
+Les entrées sont à 7 euros et copieuses. </s> entrées,entrées,2,2
+Les entrées sont à 7 euros et copieuses. </s> entrées,entrées,2,2
+Les plats sont bons mais ne vous attendez pas à de grandes surprises. </s> plats,plats,2,2
+Les plats sont bons mais ne vous attendez pas à de grandes surprises. </s> plats,plats,0,2
+"Ils maîtrisent les plats typiques ""bistrot"". </s> plats",plats,0,2
+"Ils maîtrisent les plats typiques ""bistrot"". </s> plats",plats,2,2
+Les viandes sont excellentes notamment la bavette échalotes. </s> bavette échalotes,bavette échalotes,2,2
+Les viandes sont excellentes notamment la bavette échalotes. </s> viandes,viandes,2,2
+Leur petit pot au chocolat en dessert est une tuerie. </s> pot au chocolat,pot au chocolat,2,2
+Mon compagnon est végétarien et ils n'ont actuellement que des gnocchis à la crème de crustacés à proposer en plat. </s> plat,plat,1,1
+Mais nous resterons des clients réguliers de cette adresse incontournable des amoureux des brasseries typiquement parisienne. </s> adresse,adresse,2,2
+"Le lieu est très sympathique, bien décoré. </s> lieu",lieu,2,2
+"Le lieu est très sympathique, bien décoré. </s> lieu",lieu,2,2
+"Les plats n'ont aucun goût, pas d'assaisonnement c'est tout à fait grossier pour une note bien salée. </s> plats",plats,1,1
+"Les plats n'ont aucun goût, pas d'assaisonnement c'est tout à fait grossier pour une note bien salée. </s> plats",plats,1,1
+"Les plats n'ont aucun goût, pas d'assaisonnement c'est tout à fait grossier pour une note bien salée. </s> plats",plats,1,1
+Pour bien connaitre la cuisine marocaine ce restaurant a tout d'un attrape touriste qui fait honte à la cuisine locale. </s> restaurant,restaurant,1,1
+Pour bien connaitre la cuisine marocaine ce restaurant a tout d'un attrape touriste qui fait honte à la cuisine locale. </s> cuisine,cuisine,1,1
+Cette salle dansante est agréable malgré son étroitesse nous nous sommes amusés mais il y avait peu de monde alors je ne sais pas si le plaisir est toujours là les soirs d'affluence. </s> salle dansante,salle dansante,0,2
+Le service est correct poli mais sans entrain. </s> service,service,0,0
+"Attente démesurée, le vin demandé n'est plus en cave, mais on ne nous en propose pas d'autre ! </s> Attente",Attente,1,1
+"Attente démesurée, le vin demandé n'est plus en cave, mais on ne nous en propose pas d'autre ! </s> vin",vin,1,1
+"3 plats arrivent enfin, puis une viande demandée bleue apportée bien cuite. </s> viande",viande,1,2
+"Longtemps après, les premiers ayant deja fini, la deuxième viande bleue, froide. </s> viande",viande,1,1
+"Personnel peu aimable, peu disponible, un repas d'anniversaire qui a tourné aigre. </s> Personnel",Personnel,1,1
+"En famille, après une longue balade, la météo sympathique a fait que la terasse nous a attiré. </s> terasse",terasse,2,2
+Le service et la cuisine sont correctes. </s> service,service,0,0
+Le service et la cuisine sont correctes. </s> cuisine,cuisine,0,0
+Les enfants ont adoré le mi-cuit au chocolat maison. </s> mi-cuit au chocolat,mi-cuit au chocolat,2,2
+"Si vous passez par là, vous pouvez vous arreter pour le cadre, les oiseaux et canards environnants, mais sans attendre quelque chose d'exceptionnel de la cuisine. </s> cadre",cadre,2,2
+"Si vous passez par là, vous pouvez vous arreter pour le cadre, les oiseaux et canards environnants, mais sans attendre quelque chose d'exceptionnel de la cuisine. </s> cuisine",cuisine,0,2
+"Entrée plat dessert en plein Montmartre avec une qualité correcte, je trouve ça pas mal. </s> Entrée plat dessert",Entrée plat dessert,0,2
+"Entrée plat dessert en plein Montmartre avec une qualité correcte, je trouve ça pas mal. </s> Montmartre",Montmartre,2,0
+"Ravioles et tartiflette correctes, crêpe suzette passable. </s> Ravioles",Ravioles,0,0
+"Ravioles et tartiflette correctes, crêpe suzette passable. </s> tartiflette",tartiflette,0,0
+"Ravioles et tartiflette correctes, crêpe suzette passable. </s> crêpe suzette",crêpe suzette,1,0
+Effectivement les serveurs sont chez eux et ne font pas cas des clients quand ils discutent. </s> serveurs,serveurs,1,1
+Après ça mais une certaine ambiance dans la salle. </s> ambiance,ambiance,0,2
+Repas ordinaire mais qui permet de manger à moindre coût et au chaud. </s> Repas,Repas,0,0
+Repas ordinaire mais qui permet de manger à moindre coût et au chaud. </s> Repas,Repas,2,0
+Le personnel n'est pas très sympa. </s> personnel,personnel,1,1
+"On est un peu à l'étroit mais c'et le principe de ce genre de petite brasserie, déco à revoir car vieillissante mais familiale et conviviale. </s> déco",déco,2,1
+"On est un peu à l'étroit mais c'et le principe de ce genre de petite brasserie, déco à revoir car vieillissante mais familiale et conviviale. </s> brasserie",brasserie,0,0
+"On est un peu à l'étroit mais c'et le principe de ce genre de petite brasserie, déco à revoir car vieillissante mais familiale et conviviale. </s> déco",déco,1,1
+"Dîner décevant de tout point de vue : ambiance assez triste (seulement 4 tables occupées ce dimanche soir), service un peu froid (une seule personne en salle, souvent absente, il fallait attendre son retour à chaque fois que nous voulions demander quelque chose), plats décevants : le riz arborio aux truffes apparaissant dans le menu à la carte disponible sur le site web du restaurant était devenu un simple risotto aux champignons (très moyen au demeurant), pour le même prix (18 euros en entrée), et le ris de veau était trop cuit, sec, mal accompagné. </s> ris de veau",ris de veau,1,1
+"Dîner décevant de tout point de vue : ambiance assez triste (seulement 4 tables occupées ce dimanche soir), service un peu froid (une seule personne en salle, souvent absente, il fallait attendre son retour à chaque fois que nous voulions demander quelque chose), plats décevants : le riz arborio aux truffes apparaissant dans le menu à la carte disponible sur le site web du restaurant était devenu un simple risotto aux champignons (très moyen au demeurant), pour le même prix (18 euros en entrée), et le ris de veau était trop cuit, sec, mal accompagné. </s> riz arborio aux truffes",riz arborio aux truffes,1,1
+"Dîner décevant de tout point de vue : ambiance assez triste (seulement 4 tables occupées ce dimanche soir), service un peu froid (une seule personne en salle, souvent absente, il fallait attendre son retour à chaque fois que nous voulions demander quelque chose), plats décevants : le riz arborio aux truffes apparaissant dans le menu à la carte disponible sur le site web du restaurant était devenu un simple risotto aux champignons (très moyen au demeurant), pour le même prix (18 euros en entrée), et le ris de veau était trop cuit, sec, mal accompagné. </s> riz arborio aux truffes",riz arborio aux truffes,1,1
+"Dîner décevant de tout point de vue : ambiance assez triste (seulement 4 tables occupées ce dimanche soir), service un peu froid (une seule personne en salle, souvent absente, il fallait attendre son retour à chaque fois que nous voulions demander quelque chose), plats décevants : le riz arborio aux truffes apparaissant dans le menu à la carte disponible sur le site web du restaurant était devenu un simple risotto aux champignons (très moyen au demeurant), pour le même prix (18 euros en entrée), et le ris de veau était trop cuit, sec, mal accompagné. </s> ris de veau",ris de veau,1,1
+"Dîner décevant de tout point de vue : ambiance assez triste (seulement 4 tables occupées ce dimanche soir), service un peu froid (une seule personne en salle, souvent absente, il fallait attendre son retour à chaque fois que nous voulions demander quelque chose), plats décevants : le riz arborio aux truffes apparaissant dans le menu à la carte disponible sur le site web du restaurant était devenu un simple risotto aux champignons (très moyen au demeurant), pour le même prix (18 euros en entrée), et le ris de veau était trop cuit, sec, mal accompagné. </s> ambiance",ambiance,1,1
+"Dîner décevant de tout point de vue : ambiance assez triste (seulement 4 tables occupées ce dimanche soir), service un peu froid (une seule personne en salle, souvent absente, il fallait attendre son retour à chaque fois que nous voulions demander quelque chose), plats décevants : le riz arborio aux truffes apparaissant dans le menu à la carte disponible sur le site web du restaurant était devenu un simple risotto aux champignons (très moyen au demeurant), pour le même prix (18 euros en entrée), et le ris de veau était trop cuit, sec, mal accompagné. </s> service",service,1,1
+"Dîner décevant de tout point de vue : ambiance assez triste (seulement 4 tables occupées ce dimanche soir), service un peu froid (une seule personne en salle, souvent absente, il fallait attendre son retour à chaque fois que nous voulions demander quelque chose), plats décevants : le riz arborio aux truffes apparaissant dans le menu à la carte disponible sur le site web du restaurant était devenu un simple risotto aux champignons (très moyen au demeurant), pour le même prix (18 euros en entrée), et le ris de veau était trop cuit, sec, mal accompagné. </s> plats",plats,1,1
+Vins au verre décevants. </s> Vins au verre,Vins au verre,1,1
+Le soufflé que j'avais repéré sur la carte du site web n’était plus proposé. </s> carte,carte,1,1
+"Une adresse à conseiller si vous aimez la cuisine traditionnelle, avec juste ce qu'il faut de goût. </s> cuisine traditionnelle",cuisine traditionnelle,2,2
+"Les escargots sont délicieux, l'os à moelle savoureux, et le bourguignon de nos voisins embaumait... </s> escargots",escargots,2,2
+"Les escargots sont délicieux, l'os à moelle savoureux, et le bourguignon de nos voisins embaumait... </s> os à moelle",os à moelle,2,2
+"Les escargots sont délicieux, l'os à moelle savoureux, et le bourguignon de nos voisins embaumait... </s> bourguignon",bourguignon,2,2
+"Petite salle mais beaucoup moins bruyante que l'on pourrait le croire, les vieilles pierres absorbent le bruit. </s> salle",salle,2,0
+"Service souriant, ni trop lent ni trop rapide. </s> Service",Service,2,2
+"Bon, un peu cher mais ce n'est pas un restaurant du quotidien. </s> restaurant",restaurant,0,0
+"Bon, un peu cher mais ce n'est pas un restaurant du quotidien. </s> restaurant",restaurant,0,0
+Menus imposés. </s> Menus,Menus,1,1
+Apéritifs médiocres. </s> Apéritifs,Apéritifs,1,1
+Assiettes de tapas ridicules. </s> Assiettes de tapas,Assiettes de tapas,1,1
+"Plat arrivé froid, viande mal cuite, pomme de terre froides, courgettes crues, salade chaude, plat trop salé dans son ensemble, bon point pour la sauce au vin. </s> Plat",Plat,1,1
+"Plat arrivé froid, viande mal cuite, pomme de terre froides, courgettes crues, salade chaude, plat trop salé dans son ensemble, bon point pour la sauce au vin. </s> viande",viande,1,1
+"Plat arrivé froid, viande mal cuite, pomme de terre froides, courgettes crues, salade chaude, plat trop salé dans son ensemble, bon point pour la sauce au vin. </s> pomme de terre",pomme de terre,1,1
+"Plat arrivé froid, viande mal cuite, pomme de terre froides, courgettes crues, salade chaude, plat trop salé dans son ensemble, bon point pour la sauce au vin. </s> courgettes",courgettes,1,1
+"Plat arrivé froid, viande mal cuite, pomme de terre froides, courgettes crues, salade chaude, plat trop salé dans son ensemble, bon point pour la sauce au vin. </s> salade",salade,1,1
+"Plat arrivé froid, viande mal cuite, pomme de terre froides, courgettes crues, salade chaude, plat trop salé dans son ensemble, bon point pour la sauce au vin. </s> sauce au vin",sauce au vin,2,1
+"Plat arrivé froid, viande mal cuite, pomme de terre froides, courgettes crues, salade chaude, plat trop salé dans son ensemble, bon point pour la sauce au vin. </s> plat",plat,1,1
+Vin âcre. </s> Vin,Vin,1,1
+Tarte aux pommes au calva sans calva digne d'une cantine d'école. </s> Tarte aux pommes au calva,Tarte aux pommes au calva,1,1
+Tarte aux pommes au calva sans calva digne d'une cantine d'école. </s> Tarte aux pommes au calva,Tarte aux pommes au calva,1,1
+"Arnaque du siècle, les assiettes sont peu fournies, les plats médiocres et le rapport qualité/ prix est totalement ahurissant. </s> assiettes",assiettes,1,1
+"Arnaque du siècle, les assiettes sont peu fournies, les plats médiocres et le rapport qualité/ prix est totalement ahurissant. </s> plats",plats,1,1
+Des frites surgelées ... </s> frites,frites,1,1
+Des boissons hors de prix .. mais c'est la même chose sur toute la place ... des sièges peu confortables mais une couverture proposée ... une naturelle bonne humeur ... </s> boissons,boissons,1,1
+une nourriture correcte ... </s> nourriture,nourriture,0,0
+"Ce petit restaurant discret vaut le détour, d'abord - et il faut le souligner - pour le chaleureux accueil que le patron réserve à ses clients (merci pour le kir ;), mais aussi pour la qualité des plats servis. </s> plats",plats,2,2
+"Ce petit restaurant discret vaut le détour, d'abord - et il faut le souligner - pour le chaleureux accueil que le patron réserve à ses clients (merci pour le kir ;), mais aussi pour la qualité des plats servis. </s> restaurant",restaurant,2,2
+"Ce petit restaurant discret vaut le détour, d'abord - et il faut le souligner - pour le chaleureux accueil que le patron réserve à ses clients (merci pour le kir ;), mais aussi pour la qualité des plats servis. </s> accueil",accueil,2,2
+"Les entrées sont simples mais très bonnes, et le menu offre deux séries de plats qui permettent de s'adapter à tous les budgets. </s> entrées",entrées,2,2
+"Les entrées sont simples mais très bonnes, et le menu offre deux séries de plats qui permettent de s'adapter à tous les budgets. </s> menu",menu,2,2
+"Les entrées sont simples mais très bonnes, et le menu offre deux séries de plats qui permettent de s'adapter à tous les budgets. </s> plats",plats,2,2
+"Les entrées sont simples mais très bonnes, et le menu offre deux séries de plats qui permettent de s'adapter à tous les budgets. </s> entrées",entrées,0,2
+L'assaisonnement était réalisé directement en cuisine et particulièrement délicieux. </s> assaisonnement,assaisonnement,2,2
+"La gamme de dessert est humble, mais chacun d'eux est relevé par une petite touche créative du patron, qui en relève la saveur. </s> dessert",dessert,2,0
+"La gamme de dessert est humble, mais chacun d'eux est relevé par une petite touche créative du patron, qui en relève la saveur. </s> dessert",dessert,0,0
+"Sans hésiter un endroit où il fait bon manger avec un ami ou un membre de sa famille, et qui contraste fortement avec les brasseries ""industrielles"" que l'on trouve parfois à Paris. </s> endroit",endroit,2,2
+"Sans hésiter un endroit où il fait bon manger avec un ami ou un membre de sa famille, et qui contraste fortement avec les brasseries ""industrielles"" que l'on trouve parfois à Paris. </s> endroit",endroit,2,2
+"Une cuisine fine, créative et absolument délicieuse, un cadre chaleureux et un service très agréable. </s> cuisine",cuisine,2,2
+"Une cuisine fine, créative et absolument délicieuse, un cadre chaleureux et un service très agréable. </s> cadre",cadre,2,2
+"Une cuisine fine, créative et absolument délicieuse, un cadre chaleureux et un service très agréable. </s> service",service,2,2
+"Une cuisine fine, créative et absolument délicieuse, un cadre chaleureux et un service très agréable. </s> cuisine",cuisine,2,2
+"En entrée, nous avons pris le haddock façon flammekueche (délicieux) et une sorte de canard confis en gelée avec noix et poires (très bon). </s> haddock façon flammekueche",haddock façon flammekueche,2,2
+"En entrée, nous avons pris le haddock façon flammekueche (délicieux) et une sorte de canard confis en gelée avec noix et poires (très bon). </s> canard confis",canard confis,2,2
+"En plat, j'ai complètement craqué sur le cabillaud risotto émulsion de chorizo (très surprenant). </s> cabillaud risotto émulsion de chorizo",cabillaud risotto émulsion de chorizo,2,2
+Enfin la masterpiece : le riz au lait vanille sauce caramel beurre salé (divin). </s> riz au lait vanille sauce caramel beurre salé,riz au lait vanille sauce caramel beurre salé,2,1
+La tarte sablée aux agrumes était également parfaite pour rafraîchir un diner particulièrement copieux. </s> tarte sablée aux agrumes,tarte sablée aux agrumes,2,2
+La tarte sablée aux agrumes était également parfaite pour rafraîchir un diner particulièrement copieux. </s> diner,diner,2,2
+Les serveurs étaient également adorables. </s> serveurs,serveurs,2,2
+"Un formidable moment, nous y retournerons c'est sûr, et recommandons chaudement ce restaurant ! </s> restaurant",restaurant,2,2
+"le service etait proche du zero absolue et le serveur pas tres aimable mais... si la bouffe etait correcte, je ne serai pas venu ici mettre un avis.. </s> service",service,1,1
+"le service etait proche du zero absolue et le serveur pas tres aimable mais... si la bouffe etait correcte, je ne serai pas venu ici mettre un avis.. </s> serveur",serveur,1,1
+"le service etait proche du zero absolue et le serveur pas tres aimable mais... si la bouffe etait correcte, je ne serai pas venu ici mettre un avis.. </s> bouffe",bouffe,1,0
+"oh mon dieu, frites pas bien cuite, froide et qui sortent a peine du congelateur...la bavette aie aie aie, elle a baigne dans l'huile et aucun gout... </s> frites",frites,1,1
+"oh mon dieu, frites pas bien cuite, froide et qui sortent a peine du congelateur...la bavette aie aie aie, elle a baigne dans l'huile et aucun gout... </s> bavette",bavette,1,1
+"je pense me rattraper sur le dessert avec la mousse au chocolat lol, et je goute une mousse execrable vraiment! </s> mousse au chocolat",mousse au chocolat,1,2
+"pas de chance, jetais malade l'apres midi, le repas y est ss doute pour quelque chose!! </s> repas",repas,1,1
+Le meilleur cadre de la rue avec ses poutres et ses charpentes authentiques des tables spacieuses des prix et un rapport qualité prix rare avec des produits frais et fais maison. </s> cadre,cadre,2,2
+Le meilleur cadre de la rue avec ses poutres et ses charpentes authentiques des tables spacieuses des prix et un rapport qualité prix rare avec des produits frais et fais maison. </s> produits,produits,2,2
+"Différentes formules à 12,5€ , 15,80€ et 18,90€ qui regroupent entrée + plat + dessert !!! Autant dire que c'est très rare à St. </s> formules",formules,2,1
+"Différentes formules à 12,5€ , 15,80€ et 18,90€ qui regroupent entrée + plat + dessert !!! Autant dire que c'est très rare à St. </s> formules",formules,2,1
+Les serveurs sont très souriants et patients. </s> serveurs,serveurs,2,2
+"Je suis allé à plusieurs reprises lors de mes escapades parisiennes, dîner dans cet établissement bien situé. </s> établissement",établissement,2,2
+"L'accueil est très sympathique ; le personnel est dynamique, serviable. </s> accueil",accueil,2,2
+"L'accueil est très sympathique ; le personnel est dynamique, serviable. </s> personnel",personnel,2,2
+Manger le soir en terrasse est un pur régal. </s> terrasse,terrasse,2,2
+Le contenu des assiettes est tout aussi réussi : copieux et très bon de l'entrée aux desserts. </s> assiettes,assiettes,2,2
+Le contenu des assiettes est tout aussi réussi : copieux et très bon de l'entrée aux desserts. </s> assiettes,assiettes,2,2
+Je continuerai aller passer de bons moments dans cet établissement lors de mes prochains voyages dans un cadre charmant </s> établissement,établissement,2,2
+Je continuerai aller passer de bons moments dans cet établissement lors de mes prochains voyages dans un cadre charmant </s> cadre,cadre,2,2
+"Nous avons été au départ attirés par une terrasse ensoleillée , au calme et par sa carte aux prix raisonnables. </s> terrasse",terrasse,2,2
+"Nous avons été au départ attirés par une terrasse ensoleillée , au calme et par sa carte aux prix raisonnables. </s> carte",carte,2,2
+"Les plats sont bons voire très bons , extrêmement variés avec un menu du jour poisson et viande modifié quotidiennement (Soupe de pois capuchino à ne pas manquer) Il s'agit d'une cuisine familiale faite maison la plupart du temps . </s> plats",plats,2,2
+"Les plats sont bons voire très bons , extrêmement variés avec un menu du jour poisson et viande modifié quotidiennement (Soupe de pois capuchino à ne pas manquer) Il s'agit d'une cuisine familiale faite maison la plupart du temps . </s> menu du jour",menu du jour,2,2
+"Les plats sont bons voire très bons , extrêmement variés avec un menu du jour poisson et viande modifié quotidiennement (Soupe de pois capuchino à ne pas manquer) Il s'agit d'une cuisine familiale faite maison la plupart du temps . </s> Soupe de pois capuchino",Soupe de pois capuchino,2,2
+"Les plats sont bons voire très bons , extrêmement variés avec un menu du jour poisson et viande modifié quotidiennement (Soupe de pois capuchino à ne pas manquer) Il s'agit d'une cuisine familiale faite maison la plupart du temps . </s> cuisine",cuisine,2,2
+"Les plats sont bons voire très bons , extrêmement variés avec un menu du jour poisson et viande modifié quotidiennement (Soupe de pois capuchino à ne pas manquer) Il s'agit d'une cuisine familiale faite maison la plupart du temps . </s> plats",plats,2,2
+"Les plats sont bons voire très bons , extrêmement variés avec un menu du jour poisson et viande modifié quotidiennement (Soupe de pois capuchino à ne pas manquer) Il s'agit d'une cuisine familiale faite maison la plupart du temps . </s> cuisine",cuisine,2,2
+"L'équipe est sympa ,serviable . </s> équipe",équipe,2,2
+Un restaurant d'une médiocrité sans nom ! </s> restaurant,restaurant,1,1
+Nous avons attendu 15 mn pour qu'on nous prépare la table et 40mn après avoir commandé pour être servies un boeuf bourguignon dont la qualité et le goût laissent à désirer ! </s> boeuf bourguignon,boeuf bourguignon,1,1
+Des pommes de terres quasiment crues avec des carottes crues et une sauce sans goût et non assaisonnée ! </s> pommes de terres,pommes de terres,1,1
+Des pommes de terres quasiment crues avec des carottes crues et une sauce sans goût et non assaisonnée ! </s> carottes,carottes,1,1
+Des pommes de terres quasiment crues avec des carottes crues et une sauce sans goût et non assaisonnée ! </s> sauce,sauce,1,1
+Aucune communication de la part du personnel qui a servi d'autres clients arrivés après avant nous (entrée et plat) compris ! </s> personnel,personnel,1,1
+J'ai vraiment failli partir au bout d'une 40mn d'attente lorsque j'ai vu l'assiette arriver car j'ai clairement trouvé le comportement de la patronne exécrable et dédaigneux. </s> patronne,patronne,1,1
+La vue de l'extérieur sur la grande étagère de bouteilles de vins nous a attirée. </s> grande étagère de bouteilles de vins,grande étagère de bouteilles de vins,2,2
+Nous sommes donc rentrés dans ce resto bar à vins à la déco hyper originale! </s> déco,déco,2,2
+"Les serveurs sont adorables, le vin et les conseils pour le choisir sont au top! </s> serveurs",serveurs,2,2
+"Les serveurs sont adorables, le vin et les conseils pour le choisir sont au top! </s> vin",vin,2,2
+Nous avons moins été séduits par les plats que nous avons trouvé un peu chers vs la qualite proposée bien que les produits soient frais et ça c'est important. </s> plats,plats,0,1
+Nous avons moins été séduits par les plats que nous avons trouvé un peu chers vs la qualite proposée bien que les produits soient frais et ça c'est important. </s> produits,produits,2,2
+Nous avons moins été séduits par les plats que nous avons trouvé un peu chers vs la qualite proposée bien que les produits soient frais et ça c'est important. </s> plats,plats,1,1
+"Dans une rue calme, l'accueil y est sympathique et chaleureux, la salle agréable et confortable. </s> salle",salle,2,2
+"Dans une rue calme, l'accueil y est sympathique et chaleureux, la salle agréable et confortable. </s> accueil",accueil,2,2
+"Dans une rue calme, l'accueil y est sympathique et chaleureux, la salle agréable et confortable. </s> rue",rue,2,2
+"En famille ou entre amis, la tonalité de la musique à hauteur convenable, permet de tenir une conversation sans hurler, tout en dégustant d'excellents plats, joliment présentés et très savoureux, servis avec le sourire et accompagnés de très bons vins. </s> musique",musique,2,0
+"En famille ou entre amis, la tonalité de la musique à hauteur convenable, permet de tenir une conversation sans hurler, tout en dégustant d'excellents plats, joliment présentés et très savoureux, servis avec le sourire et accompagnés de très bons vins. </s> plats",plats,2,2
+"En famille ou entre amis, la tonalité de la musique à hauteur convenable, permet de tenir une conversation sans hurler, tout en dégustant d'excellents plats, joliment présentés et très savoureux, servis avec le sourire et accompagnés de très bons vins. </s> plats",plats,2,2
+"En famille ou entre amis, la tonalité de la musique à hauteur convenable, permet de tenir une conversation sans hurler, tout en dégustant d'excellents plats, joliment présentés et très savoureux, servis avec le sourire et accompagnés de très bons vins. </s> vins",vins,2,2
+"Je suis bien conscient que cet avis ne changera rien, le bar étant placé de manière à toujours pouvoir attirer des touristes mais bon, un lieu aussi scandaleux merite d'être dénoncé. </s> bar",bar,0,1
+"Je suis bien conscient que cet avis ne changera rien, le bar étant placé de manière à toujours pouvoir attirer des touristes mais bon, un lieu aussi scandaleux merite d'être dénoncé. </s> lieu",lieu,1,1
+Le serveur dont nous avons hérité est un vieil acariâtre dont l'impolitesse traduit le dégoût qu'il a pour son métier et le peu d'estime qu il se porte sans doute à lui-même. </s> serveur,serveur,1,1
+"Ce service désagréable au possible est couronné d'une carte incompréhensible, aux prix exhorbitants. </s> service",service,1,1
+"Ce service désagréable au possible est couronné d'une carte incompréhensible, aux prix exhorbitants. </s> carte",carte,1,1
+"Ce service désagréable au possible est couronné d'une carte incompréhensible, aux prix exhorbitants. </s> carte",carte,1,1
+Déjà le restaurant n'est pas très bien placé je trouve. </s> restaurant,restaurant,1,1
+"Accueil pas trop mauvais, mais j'aurais préféré pouvoir discuter avec mon conjoint sans être écouté par une des serveuses.. </s> Accueil",Accueil,0,1
+"Accueil pas trop mauvais, mais j'aurais préféré pouvoir discuter avec mon conjoint sans être écouté par une des serveuses.. </s> serveuses",serveuses,1,1
+"Le repas était assez bon, mais tout est sûrement congeléx et c'est dommage d'avoir eu mon dessert quand mon homme avait fini ! </s> repas",repas,0,2
+"Le repas était assez bon, mais tout est sûrement congeléx et c'est dommage d'avoir eu mon dessert quand mon homme avait fini ! </s> repas",repas,1,2
+"Nous avons découvert ce restaurant avec Groupon, je ne le conseille pas sans cette offre. </s> restaurant",restaurant,1,2
+"la terrasse est grande et en grande partie ensoleillée, le service est efficace et rapide, formule changeant tous les jours, et il y des plats avec supplément qui moi me mettent souvent l'eau à la bouche. </s> terrasse",terrasse,2,2
+"la terrasse est grande et en grande partie ensoleillée, le service est efficace et rapide, formule changeant tous les jours, et il y des plats avec supplément qui moi me mettent souvent l'eau à la bouche. </s> plats",plats,2,2
+"la terrasse est grande et en grande partie ensoleillée, le service est efficace et rapide, formule changeant tous les jours, et il y des plats avec supplément qui moi me mettent souvent l'eau à la bouche. </s> service",service,2,2
+"la terrasse est grande et en grande partie ensoleillée, le service est efficace et rapide, formule changeant tous les jours, et il y des plats avec supplément qui moi me mettent souvent l'eau à la bouche. </s> formule",formule,2,2
+"ah : quand il fait un peu frisquet, la terrasse est chauffée et ils mettent des plaids à dispo sur les chaises, ça aide :) </s> terrasse",terrasse,2,2
+Les pizzas sont correctes et les plats du jour sont très chers. </s> pizzas,pizzas,0,0
+Les pizzas sont correctes et les plats du jour sont très chers. </s> plats du jour,plats du jour,1,1
+Pas de viandes sur la carte. </s> carte,carte,0,1
+Tiramisu très bon et abondant. </s> Tiramisu,Tiramisu,2,2
+Tiramisu très bon et abondant. </s> Tiramisu,Tiramisu,2,2
+Les excellentes critiques de ce restaurant se sont confirmées à table. </s> restaurant,restaurant,2,2
+Le menu-carte offre un choix pour tous les goûts et permet de découvrir des plats de saison bien présentés. </s> menu-carte,menu-carte,2,2
+Le menu-carte offre un choix pour tous les goûts et permet de découvrir des plats de saison bien présentés. </s> plats de saison,plats de saison,2,2
+"La carte est a priori renouvelée chaque jour de 3 entrées, 3 plats et 3 desserts. </s> carte",carte,2,0
+"Mais les incontournables restent manifestement la dorade en tartare, les crevettes cajun, les gnocchi d'agria à la truffe blanche, le dos de cabillaud à la plancha (parfaitement cuit et servi sur un lit de salsifis). </s> dorade en tartare",dorade en tartare,2,2
+"Mais les incontournables restent manifestement la dorade en tartare, les crevettes cajun, les gnocchi d'agria à la truffe blanche, le dos de cabillaud à la plancha (parfaitement cuit et servi sur un lit de salsifis). </s> crevettes cajun",crevettes cajun,2,2
+"Mais les incontournables restent manifestement la dorade en tartare, les crevettes cajun, les gnocchi d'agria à la truffe blanche, le dos de cabillaud à la plancha (parfaitement cuit et servi sur un lit de salsifis). </s> gnocchi d'agria à la truffe blanche",gnocchi d'agria à la truffe blanche,2,2
+"Mais les incontournables restent manifestement la dorade en tartare, les crevettes cajun, les gnocchi d'agria à la truffe blanche, le dos de cabillaud à la plancha (parfaitement cuit et servi sur un lit de salsifis). </s> dos de cabillaud",dos de cabillaud,2,2
+La carte des vins est également courte et fait la part belle aux Côtes du Rhône et Languedoc Roussillon en mettant en avant des cuvées abordables dont quelques unes issues de producteurs reconnus. </s> carte des vins,carte des vins,0,0
+La carte des vins est également courte et fait la part belle aux Côtes du Rhône et Languedoc Roussillon en mettant en avant des cuvées abordables dont quelques unes issues de producteurs reconnus. </s> cuvées,cuvées,2,2
+La carte des vins est également courte et fait la part belle aux Côtes du Rhône et Languedoc Roussillon en mettant en avant des cuvées abordables dont quelques unes issues de producteurs reconnus. </s> cuvées,cuvées,2,2
+Service attentif et sympathique. </s> Service,Service,2,2
+Le sommelier n'hésite pas à changer une bouteille présentant un défaut. </s> sommelier,sommelier,2,2
+Ambiance bistrot chic. </s> Ambiance,Ambiance,0,2
+Un peu bruyant mais comme le restaurant parait rempli tous les soirs ... </s> restaurant,restaurant,1,1
+Un peu bruyant mais comme le restaurant parait rempli tous les soirs ... </s> restaurant,restaurant,2,1
+Une bonne adresse à deux pas de l'Etoile. </s> adresse,adresse,2,2
+Une bonne adresse à deux pas de l'Etoile. </s> Etoile,Etoile,0,2
+Encore un resto qui perd petit à petit de la qualité. </s> resto,resto,1,1
+"La deco est géniale, je suis plutôt fan, même si la préférence va à la Deco de type recup ou industriel, cette deco type romantique me plait plutôt. </s> deco",deco,2,2
+"A l'intérieur on est tranquille et si on aime voir du monde passer on se met en terrasse, très agréable en été d ailleurs ou je passe ps mal de temps avec les copains à regarder les gens passer. </s> terrasse",terrasse,2,2
+"A l'intérieur on est tranquille et si on aime voir du monde passer on se met en terrasse, très agréable en été d ailleurs ou je passe ps mal de temps avec les copains à regarder les gens passer. </s> intérieur",intérieur,2,2
+"Encore un fois le problème comme dans pas mal de resto finalement le problème réside dans la nourriture qui n'est pas au niveau, ni de l'adresse, ni de l'effort fait à la déco. </s> nourriture",nourriture,1,1
+"Encore un fois le problème comme dans pas mal de resto finalement le problème réside dans la nourriture qui n'est pas au niveau, ni de l'adresse, ni de l'effort fait à la déco. </s> déco",déco,2,1
+"Il y a quelques années, le burger en forme de cœur était un must have, il est aujourd'hui devenu commun, je ne le finis meme plus. </s> burger",burger,1,2
+J'ai adoré le décors... </s> décors,décors,2,2
+J'ai apprécié l'histoire des lieux. </s> histoire des lieux,histoire des lieux,2,2
+"Nus avons eu huîtres, crevettes roses et homard en entrée, les produits étaient de qualité. </s> produits",produits,2,2
+Les crevettes étaient fermes et excellente. </s> crevettes,crevettes,2,2
+"le homard un peu petit, du canadien sans doute. </s> homard",homard,1,1
+"La soupe tout d'abord très bonne, généreux en croûtons... </s> soupe",soupe,2,2
+"La soupe tout d'abord très bonne, généreux en croûtons... </s> soupe",soupe,2,2
+"La suite, les poissons très fins, un des poissons était rempli d'arrête, c'est dommage mais bon... </s> poissons",poissons,2,1
+"La suite, les poissons très fins, un des poissons était rempli d'arrête, c'est dommage mais bon... </s> poissons",poissons,1,1
+Cela n'enlève rien à la qualité de la bouillabaisse... </s> bouillabaisse,bouillabaisse,2,2
+"Belle réussite sur le soufflé, attention taille impressionnante !! Fond bien dans la bouche, pas lourd du tout ! </s> soufflé",soufflé,2,2
+"Belle réussite sur le soufflé, attention taille impressionnante !! Fond bien dans la bouche, pas lourd du tout ! </s> soufflé",soufflé,2,2
+C'était un très bon déjeuner. </s> déjeuner,déjeuner,2,2
+Un restaurant extrêmement bien situé tout en haut des Champs Elysée ! </s> restaurant,restaurant,2,2
+Niveau décoration cela reste très inventif et change de la décoration ordinaire. </s> décoration,décoration,2,2
+La cuisine est correcte pour les prix pratiqués. </s> cuisine,cuisine,0,0
+La cuisine est correcte pour les prix pratiqués. </s> cuisine,cuisine,2,0
+Le personnel est très occupé par les différentes tables donc ne vous attendez pas à une attention particulière envers vous ! </s> personnel,personnel,1,1
+Restaurant à essayer (au moins une fois) pour vous en faire une idée. </s> Restaurant,Restaurant,2,2
+Très bel endroit avec vue sur la Tour Eiffel c est certain mais et il y a vraiment un mais au delà des prix prohibitifs pour un dîner très moyen en qualité et très prétention en présentation... </s> endroit,endroit,2,2
+Très bel endroit avec vue sur la Tour Eiffel c est certain mais et il y a vraiment un mais au delà des prix prohibitifs pour un dîner très moyen en qualité et très prétention en présentation... </s> vue,vue,2,2
+Très bel endroit avec vue sur la Tour Eiffel c est certain mais et il y a vraiment un mais au delà des prix prohibitifs pour un dîner très moyen en qualité et très prétention en présentation... </s> dîner,dîner,1,1
+Très bel endroit avec vue sur la Tour Eiffel c est certain mais et il y a vraiment un mais au delà des prix prohibitifs pour un dîner très moyen en qualité et très prétention en présentation... </s> dîner,dîner,1,1
+Très bel endroit avec vue sur la Tour Eiffel c est certain mais et il y a vraiment un mais au delà des prix prohibitifs pour un dîner très moyen en qualité et très prétention en présentation... </s> dîner,dîner,1,1
+"Le service est déplorable, il faut les supplier de prendre la commande, ils oublient d apporter la carafe d eau, ils ignorent nos mains levées et prennent un temps fou pour l addition </s> service",service,1,1
+Cela faisait 5 ans que nous n étions pas revenu dans ce restaurant qui offre une terrasse superbe dans un quartier sympa de Paris ... </s> terrasse,terrasse,2,2
+Cela faisait 5 ans que nous n étions pas revenu dans ce restaurant qui offre une terrasse superbe dans un quartier sympa de Paris ... </s> quartier,quartier,2,2
+Mais mon dieu quel désastre au niveau du service et de la cuisine. </s> service,service,1,1
+Mais mon dieu quel désastre au niveau du service et de la cuisine. </s> cuisine,cuisine,1,1
+A notre arrivée 3 serveurs et serveuses nous sont passés devant avant que l on nous adresse simplement la parole. </s> serveurs,serveurs,1,1
+A notre arrivée 3 serveurs et serveuses nous sont passés devant avant que l on nous adresse simplement la parole. </s> serveuses,serveuses,1,1
+L arrivée de la responsable fut caricaturale avec son plan de table chiffonnée essayant de nous placer à l intérieur malgré notre demande express de la terrasse. </s> responsable,responsable,1,1
+Assis sur des chaises de jardin peu confortable nous attendons l apéro qui arrive très rapidement le seul hic c est la différence entre nos deux verres pour le même alcool 1/4 de quantité différente. </s> verres,verres,1,1
+Je vous passe le repas dont les produits sont quelconque. </s> produits,produits,1,1
+Même les desserts de Pierre herme que j inviterais à ne plus autoriser la distribution dans cet établissement ont été servi. </s> desserts,desserts,1,1
+Bref je ne sais pas où sont passés les anciens propriétaires mais il faut que quelqu un reprenne cet établissement en main. </s> établissement,établissement,1,1
+Ah oui j oubliais ne regarder pas la carte affichée en vitrine vous y verrez au moins 2 mouches mortes écrasées je n ose pas mettre un pied dans la cuisine. </s> carte,carte,1,1
+Une table qui tient la route dans un quartier où les tables changent très vite? </s> table,table,2,2
+Très beau menu à 35 euros le midi qui change tout le temps. </s> menu,menu,2,2
+"A la carte,plus cher, la sole meunière est un véritable délice (49 euros tout de même) et chacun sait à quel point c'est difficile de la réussir. </s> sole meunière",sole meunière,2,2
+"A la carte,plus cher, la sole meunière est un véritable délice (49 euros tout de même) et chacun sait à quel point c'est difficile de la réussir. </s> carte",carte,0,0
+"A la carte,plus cher, la sole meunière est un véritable délice (49 euros tout de même) et chacun sait à quel point c'est difficile de la réussir. </s> sole meunière",sole meunière,1,2
+La côte de veau aussi. </s> côte de veau,côte de veau,2,2
+Vin au verre (heureusement!). </s> Vin au verre,Vin au verre,2,1
+Café gourmand exquis. </s> Café gourmand,Café gourmand,2,2
+En tout cas régulier dans un beau cadre à deux pas des Invalides. </s> cadre,cadre,2,2
+"Quel plaisir dés l'accueil, ce grand sourire, cette bise, le tout très naturel, on n'est plus habitués à ce coté amical, surtout à Paris! </s> accueil",accueil,2,2
+"Et le cadre !!! Et la cuisine !!! On vient aussi et surtout pour ça et notre dernier déjeuner était, comme toujours, extra : Turbot poché à la rhubarbe, sauce crémée avec sa purée de panais, île flottante et tarte aux pralines...le tout arrosé d'un excellent Beaujolais...que du bonheur et c'est ainsi que tous les clients deviennent des habitués, ou plutôt des amis </s> cadre",cadre,2,2
+"Et le cadre !!! Et la cuisine !!! On vient aussi et surtout pour ça et notre dernier déjeuner était, comme toujours, extra : Turbot poché à la rhubarbe, sauce crémée avec sa purée de panais, île flottante et tarte aux pralines...le tout arrosé d'un excellent Beaujolais...que du bonheur et c'est ainsi que tous les clients deviennent des habitués, ou plutôt des amis </s> cuisine",cuisine,2,2
+"Et le cadre !!! Et la cuisine !!! On vient aussi et surtout pour ça et notre dernier déjeuner était, comme toujours, extra : Turbot poché à la rhubarbe, sauce crémée avec sa purée de panais, île flottante et tarte aux pralines...le tout arrosé d'un excellent Beaujolais...que du bonheur et c'est ainsi que tous les clients deviennent des habitués, ou plutôt des amis </s> déjeuner",déjeuner,2,2
+"Et le cadre !!! Et la cuisine !!! On vient aussi et surtout pour ça et notre dernier déjeuner était, comme toujours, extra : Turbot poché à la rhubarbe, sauce crémée avec sa purée de panais, île flottante et tarte aux pralines...le tout arrosé d'un excellent Beaujolais...que du bonheur et c'est ainsi que tous les clients deviennent des habitués, ou plutôt des amis </s> Turbot poché à la rhubarbe",Turbot poché à la rhubarbe,2,2
+"Et le cadre !!! Et la cuisine !!! On vient aussi et surtout pour ça et notre dernier déjeuner était, comme toujours, extra : Turbot poché à la rhubarbe, sauce crémée avec sa purée de panais, île flottante et tarte aux pralines...le tout arrosé d'un excellent Beaujolais...que du bonheur et c'est ainsi que tous les clients deviennent des habitués, ou plutôt des amis </s> sauce crémée",sauce crémée,2,1
+"Et le cadre !!! Et la cuisine !!! On vient aussi et surtout pour ça et notre dernier déjeuner était, comme toujours, extra : Turbot poché à la rhubarbe, sauce crémée avec sa purée de panais, île flottante et tarte aux pralines...le tout arrosé d'un excellent Beaujolais...que du bonheur et c'est ainsi que tous les clients deviennent des habitués, ou plutôt des amis </s> île flottante",île flottante,2,2
+"Et le cadre !!! Et la cuisine !!! On vient aussi et surtout pour ça et notre dernier déjeuner était, comme toujours, extra : Turbot poché à la rhubarbe, sauce crémée avec sa purée de panais, île flottante et tarte aux pralines...le tout arrosé d'un excellent Beaujolais...que du bonheur et c'est ainsi que tous les clients deviennent des habitués, ou plutôt des amis </s> tarte aux pralines",tarte aux pralines,2,2
+"Et le cadre !!! Et la cuisine !!! On vient aussi et surtout pour ça et notre dernier déjeuner était, comme toujours, extra : Turbot poché à la rhubarbe, sauce crémée avec sa purée de panais, île flottante et tarte aux pralines...le tout arrosé d'un excellent Beaujolais...que du bonheur et c'est ainsi que tous les clients deviennent des habitués, ou plutôt des amis </s> Beaujolais",Beaujolais,2,2
+"Terrasse ensoleillée le dimanche, décor plutôt sympa, ça s' annonçait plutôt bien.... </s> Terrasse",Terrasse,2,2
+"Terrasse ensoleillée le dimanche, décor plutôt sympa, ça s' annonçait plutôt bien.... </s> décor",décor,2,2
+On commande deux piscines de champagne qui nous sont servies au bout de 20 min... et sans glaçons!!! </s> piscines de champagne,piscines de champagne,1,1
+Quand on demande à un serveur aigri comme un cornichon macéré dans du vinaigre depuis 54 ans si notre commande a bien été prise il nous agresse littéralement en nous disant que le champagne est en train d'être cherché (visiblement directement à Reims) </s> serveur,serveur,1,1
+"Bref, les serveurs ne prennent même pas la peine de parler en anglais aux pauvres touristes échoués ici, la patronne siliconnée, botoxée, jusqu'à en avoir le visage figé (ça doit être la raison de sa cruelle absence de sourire) se pavane sur la terrasse mais ne fait pas avancer les commandes plus vite... </s> serveurs",serveurs,1,1
+"Bref, les serveurs ne prennent même pas la peine de parler en anglais aux pauvres touristes échoués ici, la patronne siliconnée, botoxée, jusqu'à en avoir le visage figé (ça doit être la raison de sa cruelle absence de sourire) se pavane sur la terrasse mais ne fait pas avancer les commandes plus vite... </s> patronne",patronne,1,1
+"Service superbe et très accueillant, malheureusement ils ne savent pas décrire les plats, les noms originaux des plats sont incompréhensible. </s> Service",Service,2,2
+"Service superbe et très accueillant, malheureusement ils ne savent pas décrire les plats, les noms originaux des plats sont incompréhensible. </s> plats",plats,1,1
+"Service superbe et très accueillant, malheureusement ils ne savent pas décrire les plats, les noms originaux des plats sont incompréhensible. </s> Service",Service,1,2
+"Une fois servis j'ai cru que j'allais me sentir mal, ma bavette était noyée sous une quantité absurde de sauce au bleu insipide, quant à la salade de mon amie elle était pleine d'huile, de graisse et de gras. </s> bavette",bavette,1,1
+"Une fois servis j'ai cru que j'allais me sentir mal, ma bavette était noyée sous une quantité absurde de sauce au bleu insipide, quant à la salade de mon amie elle était pleine d'huile, de graisse et de gras. </s> sauce au bleu",sauce au bleu,1,1
+"Une fois servis j'ai cru que j'allais me sentir mal, ma bavette était noyée sous une quantité absurde de sauce au bleu insipide, quant à la salade de mon amie elle était pleine d'huile, de graisse et de gras. </s> salade",salade,1,1
+"C'est une très très belle adresse… la cuisine est remarquable car les cuissons sont parfaites, les produits ultra frais et plutôt de saison, tout est fait maison. </s> adresse",adresse,2,2
+"C'est une très très belle adresse… la cuisine est remarquable car les cuissons sont parfaites, les produits ultra frais et plutôt de saison, tout est fait maison. </s> cuisine",cuisine,2,2
+"C'est une très très belle adresse… la cuisine est remarquable car les cuissons sont parfaites, les produits ultra frais et plutôt de saison, tout est fait maison. </s> produits",produits,2,2
+"L'assiette est parfaite de l'entrée jusqu'au dessert, ce qui n'est pas si fréquent. </s> assiette",assiette,2,2
+"La carte des vins est focus mais très très bien, en blanc comme en rouge. </s> carte des vins",carte des vins,2,2
+"La carte des vins est focus mais très très bien, en blanc comme en rouge. </s> carte des vins",carte des vins,0,2
+Ce ne sont pas des premiers prix mais on peut dire que le rapport qualité-prix est excellent. </s> rapport qualité-prix est excellent.,rapport qualité-prix est excellent.,2,2
+"L'accueil et le service sont à la fois pros mais détendus, il y a ce qu'il faut pour se sentir bien mais aussi être très très bien reçus et y revenir ! </s> accueil",accueil,2,2
+"L'accueil et le service sont à la fois pros mais détendus, il y a ce qu'il faut pour se sentir bien mais aussi être très très bien reçus et y revenir ! </s> service",service,2,2
+"C'est pour conclure une très belle adresse, une rare alliance de tradition et de modernité, de belle cuisine mais qui reste lisible, agréable, sophistiquée sans trop. </s> adresse",adresse,2,2
+"C'est pour conclure une très belle adresse, une rare alliance de tradition et de modernité, de belle cuisine mais qui reste lisible, agréable, sophistiquée sans trop. </s> cuisine",cuisine,2,2
+"C'est pour conclure une très belle adresse, une rare alliance de tradition et de modernité, de belle cuisine mais qui reste lisible, agréable, sophistiquée sans trop. </s> cuisine",cuisine,2,2
+Ce restaurant est idéalement placé pour les repas d'affaires. </s> restaurant,restaurant,2,2
+Les plats à la carte sont hors de prix (une vingtaine d'euros pour 4 vapeurs... certes bonnes mais cela fait beaucoup pour une vapeur) et ne sont pas d'une qualité exceptionnelle. </s> plats à la carte,plats à la carte,1,1
+Les plats à la carte sont hors de prix (une vingtaine d'euros pour 4 vapeurs... certes bonnes mais cela fait beaucoup pour une vapeur) et ne sont pas d'une qualité exceptionnelle. </s> vapeurs,vapeurs,2,1
+Les plats à la carte sont hors de prix (une vingtaine d'euros pour 4 vapeurs... certes bonnes mais cela fait beaucoup pour une vapeur) et ne sont pas d'une qualité exceptionnelle. </s> vapeurs,vapeurs,1,1
+Les plats à la carte sont hors de prix (une vingtaine d'euros pour 4 vapeurs... certes bonnes mais cela fait beaucoup pour une vapeur) et ne sont pas d'une qualité exceptionnelle. </s> plats à la carte,plats à la carte,0,1
+"Si l'on veut deux accompagnements, cela est même compté en supplément!! </s> accompagnements",accompagnements,1,0
+"Quant au service, il est vraiment à revoir. </s> service",service,1,1
+"Menu un peu compliqué entre Bo Boun's, salades et le reste. </s> Menu",Menu,1,1
+Il vaut mieux avoir bon appétit car les plats sont copieux et bons. </s> plats,plats,2,2
+Il vaut mieux avoir bon appétit car les plats sont copieux et bons. </s> plats,plats,2,2
+"Dommage que la salle soit aussi peu confortable, on est un peu les uns sur les autres et si vous êtes corpulents, préférez la terrasse. </s> salle",salle,1,1
+Le personnel est souvent débordé mais c'est la clé de la réussite et de la renommée. </s> personnel,personnel,0,1
+"Menu super, accords de saveurs inédits et surprenants, cadre très agréable....dommage que l'impression générale soit desservie par un service hautain et désagréable! </s> cadre",cadre,2,2
+"Menu super, accords de saveurs inédits et surprenants, cadre très agréable....dommage que l'impression générale soit desservie par un service hautain et désagréable! </s> Menu",Menu,2,2
+"Menu super, accords de saveurs inédits et surprenants, cadre très agréable....dommage que l'impression générale soit desservie par un service hautain et désagréable! </s> Menu",Menu,2,2
+"Menu super, accords de saveurs inédits et surprenants, cadre très agréable....dommage que l'impression générale soit desservie par un service hautain et désagréable! </s> service",service,1,1
+"A trop vouloir fuir les codes du resto gastronomique (et notamment l'excès de zèle qui peut parfois en caractériser le service), le Chateaubriand va à mon sens trop loin! </s> service",service,1,1
+"Certes c'est un honneur de pouvoir goûter à la cuisine inventive d'un chef comme Inaki Aizpitarte... mais quelque soit la renommée de l'établissement et son succès, je pense que les clients ont le droit d'attendre à être servis par des personnes au minimum aimables (ne serait-ce que parce qu'ils paient)! </s> cuisine",cuisine,2,2
+"Et la personne qui m'accompagnait, auvergnate, s'est elle permise une remarque avec un grand sourire sur l'épaisseur de la tranche de St-Nectaire qui lui avait été servie (moins de 2mm) pour s'entendre répondre un ""Ah bon..."" sec et froid. </s> tranche de St-Nectaire",tranche de St-Nectaire,1,1
+"Bref, dommage que le succès de l'établissement semble être monté à la tête des serveurs qui ont terni, voire gâché ce qui aurait pu être un très bon moment... </s> serveurs",serveurs,1,1
+ps: sommelier top en revanche! </s> sommelier,sommelier,2,2
+Carte compliquée à déchiffrer. </s> Carte,Carte,1,1
+Plats très moyens. </s> Plats,Plats,1,1
+Aucune souplesse dans la carte. </s> carte,carte,1,1
+"A titre d'exemple, si vous demandez des frites à la place de la garniture prévue, vous aurez la garniture prévue et un supplément frites (surgelées) à 5 euros. </s> supplément frites",supplément frites,1,1
+"A titre d'exemple, si vous demandez des frites à la place de la garniture prévue, vous aurez la garniture prévue et un supplément frites (surgelées) à 5 euros. </s> supplément frites",supplément frites,1,1
+"Bref, cadre sympathique, personnel agréable, carte de vins conséquente mais plats proposés et carte à revoir en profondeur. </s> cadre",cadre,2,2
+"Bref, cadre sympathique, personnel agréable, carte de vins conséquente mais plats proposés et carte à revoir en profondeur. </s> personnel",personnel,2,2
+"Bref, cadre sympathique, personnel agréable, carte de vins conséquente mais plats proposés et carte à revoir en profondeur. </s> carte de vins",carte de vins,2,1
+"Bref, cadre sympathique, personnel agréable, carte de vins conséquente mais plats proposés et carte à revoir en profondeur. </s> plats",plats,1,1
+"Bref, cadre sympathique, personnel agréable, carte de vins conséquente mais plats proposés et carte à revoir en profondeur. </s> carte",carte,1,1
+L'ambiance est bruyante mais relativement agréable. </s> ambiance,ambiance,2,0
+"Après un quart d'heure d'attente, un serveur arrive. </s> attente",attente,1,1
+"La nourriture est honnête, j'ai choisi une tartine de chèvre chaud, mon mari le menu à 13 euros. </s> nourriture",nourriture,0,0
+"Bref une adresse convenable, si on accepte d'être traité comme un simple régleur d'addition ... </s> adresse",adresse,0,0
+"Nous arrivons dans une salle quasi-vide un vendredi soir, malgré la recommandation d'une amie de ce restaurant comme étant une bonne adresse gastro à prix sympa... </s> salle",salle,1,1
+Tout comme les horribles rideaux qui pendouillent au dessus de nos têtes. </s> rideaux,rideaux,1,1
+"Côté cuisine, un manque complet de surprise, de découverte ou d'audace... </s> cuisine",cuisine,1,1
+"Les portions sont ridicules, trois bouchées d'onglet de veau (veaux de 25 ans sans doute, tellement la viande est rouge) et une fine lamelle de gratin dauphinois, le tout baignant dans une sauce insipide qui semblait en réalité être... de l'eau. </s> portions",portions,1,1
+"Les portions sont ridicules, trois bouchées d'onglet de veau (veaux de 25 ans sans doute, tellement la viande est rouge) et une fine lamelle de gratin dauphinois, le tout baignant dans une sauce insipide qui semblait en réalité être... de l'eau. </s> onglet de veau",onglet de veau,1,1
+"Les portions sont ridicules, trois bouchées d'onglet de veau (veaux de 25 ans sans doute, tellement la viande est rouge) et une fine lamelle de gratin dauphinois, le tout baignant dans une sauce insipide qui semblait en réalité être... de l'eau. </s> onglet de veau",onglet de veau,1,1
+"Les portions sont ridicules, trois bouchées d'onglet de veau (veaux de 25 ans sans doute, tellement la viande est rouge) et une fine lamelle de gratin dauphinois, le tout baignant dans une sauce insipide qui semblait en réalité être... de l'eau. </s> gratin dauphinois",gratin dauphinois,1,1
+"Les portions sont ridicules, trois bouchées d'onglet de veau (veaux de 25 ans sans doute, tellement la viande est rouge) et une fine lamelle de gratin dauphinois, le tout baignant dans une sauce insipide qui semblait en réalité être... de l'eau. </s> sauce",sauce,1,1
+"Le thon est tellement cru qu'il faut mieux aller chez le japonais, mais ma compagne aime ça, les thons... </s> thon",thon,1,1
+"On aimerait arrêter les frais, mais il y avait le dessert : la poire belle Hélène ""revisitée"", où comment une glace se transforme en crème dans une marre de chocolat où surnage des morceaux de fruits. </s> glace",glace,1,1
+"Oui ça doit être cela, ce soir, j'ai perdu le goût, le goût de claquer 100€ dans un resto sans saveur ni ambiance. </s> resto",resto,1,1
+"Oui ça doit être cela, ce soir, j'ai perdu le goût, le goût de claquer 100€ dans un resto sans saveur ni ambiance. </s> ambiance",ambiance,1,1
+"Mais étant donné que nous étions trop nous nombreux (13 personnes), nous avons été installé à l'étage (en nous faisant bien précisé que le rez-de-chaussée était destiné aux habitués et amateur de football et que si nous souhaitions consommer il fallait redescendre pour commander) dans un espace Iounge à peine éclairé pour pouvoir lire le menu (nous avons dû utiliser les lampes de nos smartphone). </s> espace Iounge",espace Iounge,1,1
+"Après avoir fait comprendre au personnel qu'il était possible d'aligner une table à côté d'une autre, nous sommes redescendus. </s> personnel",personnel,1,1
+Dans le partie concernant les burgers il était écrit qu'il était possible de commander le burger sans le pain (intérêt ?). </s> burgers,burgers,0,1
+"En demandant a une serveuse si le fait de prendre cette option permettait un rabais sur le tarif (déjà suffisamment cher pour la qualité), le responsable est arrivé en disant que le prix ne changeait pas (après cela vient une explication sur la marge que réalisait alors le restaurant), et a rétorqué plus tard ""nous sommes un restaurant donc notre but est de faire de la marge"" (un expert en relation client celui-là). </s> responsable",responsable,1,1
+"En résumé (parce que ça fait long a dire), nous avons passé une soirée un peu ternie par l'image du restaurant (dont l'état laisse à désirer), un service à table digne digne d'une cantine d'adolescent, et aucun petit mot d'excuse ou remise quelconque (quand il faut faire de la marge par n'importe quel moyen...) pour repartir avec le sourire (c'était pas gagné). </s> service",service,1,1
+"En résumé (parce que ça fait long a dire), nous avons passé une soirée un peu ternie par l'image du restaurant (dont l'état laisse à désirer), un service à table digne digne d'une cantine d'adolescent, et aucun petit mot d'excuse ou remise quelconque (quand il faut faire de la marge par n'importe quel moyen...) pour repartir avec le sourire (c'était pas gagné). </s> restaurant",restaurant,1,1
+"Pour avoir été testé par des membres de la soirée au préalable, nous sommes tombés d'accord sur le fait que c'était la première fois pour certains et la dernière fois pour tout le monde que nous venions dans ce restaurant! </s> restaurant",restaurant,1,2
+TOUTES LES VIANDES SONT SANS GOUT ET SECHES!!! </s> VIANDES,VIANDES,1,1
+Les frites sont certes maisons mais FAITES DES HEURES A L AVANCE ET MOLLASSONNES. </s> frites,frites,1,2
+Puree moins bonne qu a la cantine. </s> Puree,Puree,1,1
+- une entrée saumon fumé sur céleri excellent </s> saumon fumé,saumon fumé,2,2
+- sauté de veau au tagliatelle très bon </s> sauté de veau,sauté de veau,2,2
+Vin un peu cher </s> Vin,Vin,1,1
+- la salle est surchauffée ce qui est vraiment désagréable </s> salle,salle,1,1
+- l'eau en caraffe n'est pas fraiche (à relier avec le point précédent ???) </s> eau en caraffe,eau en caraffe,1,1
+Très compétitif pour le quartier et la qualité de ce que l'on a dans notre assiette. </s> assiette,assiette,2,2
+"Le service est sympathique mais très expéditif, on à pas le temps de finir un plat que l'on nous demande si on à terminer. </s> service",service,2,1
+"Le service est sympathique mais très expéditif, on à pas le temps de finir un plat que l'on nous demande si on à terminer. </s> service",service,1,1
+Si vous êtes pressés c'est l'endroit idéal! </s> endroit,endroit,2,2
+"Mais ce qui m'a gêné est la chose suivante : seulement deux minutes après avoir passé commande, nous étions déjà servit, les escalopes panées seraient elles toute faites à l'avance puis réchauffées? </s> escalopes",escalopes,1,1
+"Les prix des boissons et des desserts sont très élevés (4,5 euros pour une canette de coca..). </s> boissons",boissons,1,1
+"Les prix des boissons et des desserts sont très élevés (4,5 euros pour une canette de coca..). </s> desserts",desserts,1,1
+"Les prix des boissons et des desserts sont très élevés (4,5 euros pour une canette de coca..). </s> canette de coca",canette de coca,1,1
+"En bref la nourriture n'est pas extraordinaire, peut être même préparée longtemps à l'avance? </s> nourriture",nourriture,1,1
+Je ne recommanderai pas ce restaurant et n'y retournerai pas! </s> restaurant,restaurant,1,1
+"Ambiance très parisienne, très m'as tu vu ! </s> Ambiance",Ambiance,1,2
+serveuse pas souriante et peu accueillante. </s> serveuse,serveuse,1,1
+"Cuisine très moyenne, poulet version crêpe archi sec avec une poignée de haricots et tout cela pour un prix exorbitant ! </s> Cuisine",Cuisine,1,1
+"Cuisine très moyenne, poulet version crêpe archi sec avec une poignée de haricots et tout cela pour un prix exorbitant ! </s> poulet",poulet,1,1
+"Cuisine très moyenne, poulet version crêpe archi sec avec une poignée de haricots et tout cela pour un prix exorbitant ! </s> poulet",poulet,1,1
+Le sandwich club n'a rien de spécial et le plat vietnamien très sec sans aucune sauce. </s> sandwich club,sandwich club,1,1
+Le sandwich club n'a rien de spécial et le plat vietnamien très sec sans aucune sauce. </s> plat vietnamien,plat vietnamien,1,1
+La décoration est un peu surchargée mais cela fait le charme de l'endroit. </s> décoration,décoration,0,0
+J'y suis allée par hasard avec des amis un soir pour l'apéro et je suis revenue y déjeuner car la formule tapas à 15 € m'avait bien plu. </s> formule tapas,formule tapas,2,2
+"Vous ne trouverez pas les pseudos tapas que l'on trouve à toutes les terrasses mais uniquement les vraies recettes espagnoles : rabas de calamars, croquetas de jamon y queso, pain à la tomate, croquetas de bacalao, tortilla, serrano, piquillos, calamars à l'encre, artichauts au jambon ... </s> recettes espagnoles",recettes espagnoles,2,1
+"Vous ne trouverez pas les pseudos tapas que l'on trouve à toutes les terrasses mais uniquement les vraies recettes espagnoles : rabas de calamars, croquetas de jamon y queso, pain à la tomate, croquetas de bacalao, tortilla, serrano, piquillos, calamars à l'encre, artichauts au jambon ... </s> recettes espagnoles",recettes espagnoles,2,1
+Sans parler de la sangria tout simplement délicieuse ! </s> sangria,sangria,2,2
+"Les desserts sont à l'image du reste : crème catalane, gâteau basque, fromage de brebis et confiture de cerises noires ... </s> desserts",desserts,2,2
+Les serveurs ne parlent pas tous très bien français mais ils sont très gentils (et leur accent espagnol renforce le côté authentique de l'endroit). </s> serveurs,serveurs,2,0
+Les serveurs ne parlent pas tous très bien français mais ils sont très gentils (et leur accent espagnol renforce le côté authentique de l'endroit). </s> endroit,endroit,2,2
+15€ pour une salade composée avec deux ingrédients : de la salade verte et 2 tranches de saumon fumé. </s> salade composée,salade composée,1,1
+15€ pour une salade composée avec deux ingrédients : de la salade verte et 2 tranches de saumon fumé. </s> salade composée,salade composée,1,1
+"Hésitant au départ sur le choix du lieu, un bon verre de vin, des bons tapas de qualité engloutis,nous avons au final passé une excellente soirée avec nos amis. </s> tapas",tapas,2,2
+"Hésitant au départ sur le choix du lieu, un bon verre de vin, des bons tapas de qualité engloutis,nous avons au final passé une excellente soirée avec nos amis. </s> verre de vin",verre de vin,2,2
+"Hésitant au départ sur le choix du lieu, un bon verre de vin, des bons tapas de qualité engloutis,nous avons au final passé une excellente soirée avec nos amis. </s> lieu",lieu,2,2
+"Le Patron à l'air RUSTRE au départ, mais il joue un ""jeu"" et est super prévenant avec ses clients! </s> Patron",Patron,1,1
+Un lieu simple ou passer une agréable soirée! </s> lieu,lieu,2,2
+"Mais aucune qualité dans l'assiette, aucune présentation, on se serait cru à un repas que l'on fait chez soi. </s> assiette",assiette,1,1
+"Mais aucune qualité dans l'assiette, aucune présentation, on se serait cru à un repas que l'on fait chez soi. </s> assiette",assiette,1,1
+"De plus, parmi nos assiettes, nous avions un panel de morceaux de viande du plus petit ou plus gros! </s> assiettes",assiettes,1,1
+"Côté saumon, il était cru, on l'a signalé, la serveuse prend les 3 assiettes concernées, revient et nous demande à qui étaient les assiettes?!! </s> saumon",saumon,1,1
+"Côté saumon, il était cru, on l'a signalé, la serveuse prend les 3 assiettes concernées, revient et nous demande à qui étaient les assiettes?!! </s> serveuse",serveuse,1,1
+"De plus, recuit au micro onde!!! avec des haricots verts cuit vapeur, pas revenus, sans sauce, bref lamentable! </s> haricots verts",haricots verts,1,1
+"Le gâteau: un fraisier, nous avions cherché les fraises et écœurant trop de crème. </s> fraisier",fraisier,1,1
+"Heureusement les cocktails sans alcool et les cafés étaient bons et offerts, mais nous aurions préféré les payer et avoir quelque chose de mieux dans l'assiette.Un minimum de présentation, c'est un rien qui peut faire la différence à l’œil! </s> cafés",cafés,2,2
+"Heureusement les cocktails sans alcool et les cafés étaient bons et offerts, mais nous aurions préféré les payer et avoir quelque chose de mieux dans l'assiette.Un minimum de présentation, c'est un rien qui peut faire la différence à l’œil! </s> assiette",assiette,1,1
+"Heureusement les cocktails sans alcool et les cafés étaient bons et offerts, mais nous aurions préféré les payer et avoir quelque chose de mieux dans l'assiette.Un minimum de présentation, c'est un rien qui peut faire la différence à l’œil! </s> cocktails sans alcool",cocktails sans alcool,2,2
+"La serveuse était très agréable et souriante, juste petit souci avec la prise des 3 assiettes pour faire recuire les saumons mais sinon rien à lui reprocher. </s> serveuse",serveuse,2,2
+"Situé entre les arênes et la cour carrée, ce restaurant ne désemplit pas. </s> restaurant",restaurant,0,2
+"Très curieux car la nourriture n'a rien de sensationnel, je me suis brûlé le palais avec des nems. </s> nourriture",nourriture,1,1
+Le riz cantonais était sec et j'ai attendu pendant plus de 20 mns 2 malheureuses boules de glace. </s> riz cantonais,riz cantonais,1,1
+Petite cuisine de petite qualité et pas fait maison. </s> cuisine,cuisine,1,1
+Nous aurions aimé un meilleure repas moins speedé et avec plus de gout. </s> repas,repas,1,1
+L’accueil laisse à penser que tout va bien se passer mais rien ne se passe. </s> accueil,accueil,1,2
+Service rapide et de qualité. </s> Service,Service,2,2
+"Fraîcheur des produits, de belles présentations. </s> produits",produits,2,2
+Adresse à retenir. </s> Adresse,Adresse,2,2
+"dans une petite rue de Menton , un restaurant pas très grand par la taille mais vraiment remarquable par la qualité de sa cuisine : les raviolis aux fruits de mer , les gambes ( décortiquées , un plus pour le plaisir ... ) le turbot pour 2 , présenté avant cuisson , les anchois sur lit de roquette ...enfin si vous êtes un inconditionnel de la viande , l'agneau rosé était parfait ... accueil sympa , vins de sicile agréables ... entrées autour de 17/18€ , turbot pour 2 : 49€ . </s> restaurant",restaurant,0,2
+"dans une petite rue de Menton , un restaurant pas très grand par la taille mais vraiment remarquable par la qualité de sa cuisine : les raviolis aux fruits de mer , les gambes ( décortiquées , un plus pour le plaisir ... ) le turbot pour 2 , présenté avant cuisson , les anchois sur lit de roquette ...enfin si vous êtes un inconditionnel de la viande , l'agneau rosé était parfait ... accueil sympa , vins de sicile agréables ... entrées autour de 17/18€ , turbot pour 2 : 49€ . </s> cuisine",cuisine,2,2
+"dans une petite rue de Menton , un restaurant pas très grand par la taille mais vraiment remarquable par la qualité de sa cuisine : les raviolis aux fruits de mer , les gambes ( décortiquées , un plus pour le plaisir ... ) le turbot pour 2 , présenté avant cuisson , les anchois sur lit de roquette ...enfin si vous êtes un inconditionnel de la viande , l'agneau rosé était parfait ... accueil sympa , vins de sicile agréables ... entrées autour de 17/18€ , turbot pour 2 : 49€ . </s> gambes",gambes,2,2
+"dans une petite rue de Menton , un restaurant pas très grand par la taille mais vraiment remarquable par la qualité de sa cuisine : les raviolis aux fruits de mer , les gambes ( décortiquées , un plus pour le plaisir ... ) le turbot pour 2 , présenté avant cuisson , les anchois sur lit de roquette ...enfin si vous êtes un inconditionnel de la viande , l'agneau rosé était parfait ... accueil sympa , vins de sicile agréables ... entrées autour de 17/18€ , turbot pour 2 : 49€ . </s> agneau rosé",agneau rosé,2,2
+"dans une petite rue de Menton , un restaurant pas très grand par la taille mais vraiment remarquable par la qualité de sa cuisine : les raviolis aux fruits de mer , les gambes ( décortiquées , un plus pour le plaisir ... ) le turbot pour 2 , présenté avant cuisson , les anchois sur lit de roquette ...enfin si vous êtes un inconditionnel de la viande , l'agneau rosé était parfait ... accueil sympa , vins de sicile agréables ... entrées autour de 17/18€ , turbot pour 2 : 49€ . </s> accueil",accueil,2,2
+"dans une petite rue de Menton , un restaurant pas très grand par la taille mais vraiment remarquable par la qualité de sa cuisine : les raviolis aux fruits de mer , les gambes ( décortiquées , un plus pour le plaisir ... ) le turbot pour 2 , présenté avant cuisson , les anchois sur lit de roquette ...enfin si vous êtes un inconditionnel de la viande , l'agneau rosé était parfait ... accueil sympa , vins de sicile agréables ... entrées autour de 17/18€ , turbot pour 2 : 49€ . </s> vins de sicile",vins de sicile,2,2
+"dans une petite rue de Menton , un restaurant pas très grand par la taille mais vraiment remarquable par la qualité de sa cuisine : les raviolis aux fruits de mer , les gambes ( décortiquées , un plus pour le plaisir ... ) le turbot pour 2 , présenté avant cuisson , les anchois sur lit de roquette ...enfin si vous êtes un inconditionnel de la viande , l'agneau rosé était parfait ... accueil sympa , vins de sicile agréables ... entrées autour de 17/18€ , turbot pour 2 : 49€ . </s> entrées",entrées,0,2
+"dans une petite rue de Menton , un restaurant pas très grand par la taille mais vraiment remarquable par la qualité de sa cuisine : les raviolis aux fruits de mer , les gambes ( décortiquées , un plus pour le plaisir ... ) le turbot pour 2 , présenté avant cuisson , les anchois sur lit de roquette ...enfin si vous êtes un inconditionnel de la viande , l'agneau rosé était parfait ... accueil sympa , vins de sicile agréables ... entrées autour de 17/18€ , turbot pour 2 : 49€ . </s> turbot pour 2",turbot pour 2,0,2
+Endroit sympa en plein centre touristique. </s> Endroit,Endroit,2,2
+Nourriture classique de Menton. </s> Nourriture,Nourriture,0,0
+Superbe cadre si on mange dehors. </s> cadre,cadre,2,2
+"Accueil des plus stériles , presque l'impression de déranger . </s> Accueil",Accueil,1,1
+"Nous commandons 2 pizza , d'aspect correcte mais baignant dans l'huile , ok nous sommes dans le sud donc nous passons outre. </s> pizza",pizza,1,0
+"Après dégustation c'est le drame , un cailloux dans la pizza de mon ami. </s> pizza",pizza,1,1
+"J'appel la serveuse pour me plaindre , aucune excuse , pour elle c'est normal car il s'agit de champignon frais et nous dit que la prochaine fois ils feront du congelé... </s> serveuse",serveuse,1,1
+"Manifestement, nous derangeons la serveuse. </s> serveuse",serveuse,1,1
+"Le mojito est abominable, tiède, beaucoup trop sucré, citron balancé tel quel dans le verre... </s> mojito",mojito,1,1
+"Le mojito est abominable, tiède, beaucoup trop sucré, citron balancé tel quel dans le verre... </s> mojito",mojito,1,1
+Cuisine de saison avec des petites courgettes de pays excellentes accompagnées d'un magret cuit à la perfection. </s> Cuisine,Cuisine,2,2
+Cuisine de saison avec des petites courgettes de pays excellentes accompagnées d'un magret cuit à la perfection. </s> courgettes,courgettes,2,2
+Cuisine de saison avec des petites courgettes de pays excellentes accompagnées d'un magret cuit à la perfection. </s> magret,magret,2,2
+A recommander aux amateurs de bonne viande et de produits du terroir. </s> viande,viande,2,2
+Nous avons été déçu par le service. </s> service,service,1,1
+Serveur dépassé alors que la terrasse n'était pas remplie. </s> Serveur,Serveur,1,1
+Très déçue par ce restaurant </s> restaurant,restaurant,1,1
+Je conseille fortement le déjeuner en terrasse avec forfait spa. </s> terrasse,terrasse,2,2
+"Le serveur aux cheveux longs, brun, la trentaine, s'est empressé de me répondre d'un ton très méprisant qu'à chamonix l'eau est payante. </s> serveur",serveur,1,1
+"Un service parfait, très bonne table , vu la petite superficie du lieu , tout est bien . </s> service",service,2,2
+"Un service parfait, très bonne table , vu la petite superficie du lieu , tout est bien . </s> lieu",lieu,2,2
+"Un service parfait, très bonne table , vu la petite superficie du lieu , tout est bien . </s> table",table,2,2
+"il faut y aller , pour conclure l'extraordinaire lieu montagnard à 3842 m. </s> lieu",lieu,2,2
+"Encore bravo pour le chef ,et son équipe. </s> équipe",équipe,2,2
+"Le cadre est joli, les serveuses sympa mais peu disponibles. </s> serveuses",serveuses,2,1
+"Le cadre est joli, les serveuses sympa mais peu disponibles. </s> cadre",cadre,2,2
+"Le cadre est joli, les serveuses sympa mais peu disponibles. </s> serveuses",serveuses,1,1
+Les viandes étaient bonnes mais un peu juste en quantités à mon goût. </s> viandes,viandes,2,1
+Les viandes étaient bonnes mais un peu juste en quantités à mon goût. </s> viandes,viandes,0,1
+"Les sauces mayonnaises maison étaient bonnes mais sans plus, elles manquaient un peu de saveurs. </s> sauces mayonnaises",sauces mayonnaises,0,0
+La tartiflette était correcte. </s> tartiflette,tartiflette,0,0
+"Bref, le repas n'était pas mauvais mais je n'ai pas été emballé. </s> repas",repas,0,0
+Divin !! Endroit joli nourriture délicieuse patron tres sympa et une bonne bouteille avec Ca!! </s> nourriture,nourriture,2,2
+Divin !! Endroit joli nourriture délicieuse patron tres sympa et une bonne bouteille avec Ca!! </s> Endroit,Endroit,2,2
+Divin !! Endroit joli nourriture délicieuse patron tres sympa et une bonne bouteille avec Ca!! </s> patron,patron,2,2
+Divin !! Endroit joli nourriture délicieuse patron tres sympa et une bonne bouteille avec Ca!! </s> bouteille,bouteille,2,2
+Un très bon moment passé dans ce restaurant. </s> restaurant,restaurant,2,2
+Les plats que nous avons choisis étaient très copieux. </s> plats,plats,2,2
+C'est comme si les produits nobles avaient disparu. </s> produits,produits,1,1
+"De l'accueil à la cuisine tout est bas de gamme, heureusement le rabatteur est là pour piéger les touristes qui passent par là. </s> accueil",accueil,1,1
+"De l'accueil à la cuisine tout est bas de gamme, heureusement le rabatteur est là pour piéger les touristes qui passent par là. </s> cuisine",cuisine,1,1
+"De l'accueil à la cuisine tout est bas de gamme, heureusement le rabatteur est là pour piéger les touristes qui passent par là. </s> rabatteur",rabatteur,1,1
+tres bon produit hamburger et frites maison un regal le patron super cool et un prix tres raisonnable </s> produit,produit,2,2
+tres bon produit hamburger et frites maison un regal le patron super cool et un prix tres raisonnable </s> hamburger,hamburger,2,2
+tres bon produit hamburger et frites maison un regal le patron super cool et un prix tres raisonnable </s> frites,frites,2,2
+tres bon produit hamburger et frites maison un regal le patron super cool et un prix tres raisonnable </s> patron,patron,2,2
+bel emplacement pour ce restaurant mais quelle deception .... un serveur qui ne parle pas et qui vous sert sans rien annoncer coté cuisine rien de mieux assiettes très peu garni et qualité bof assiette de charcuterie basique le plat andouillette et pomme de terre que je deconseille fortement ..... bref passez votre chemin ..... </s> emplacement,emplacement,2,2
+bel emplacement pour ce restaurant mais quelle deception .... un serveur qui ne parle pas et qui vous sert sans rien annoncer coté cuisine rien de mieux assiettes très peu garni et qualité bof assiette de charcuterie basique le plat andouillette et pomme de terre que je deconseille fortement ..... bref passez votre chemin ..... </s> restaurant,restaurant,1,1
+bel emplacement pour ce restaurant mais quelle deception .... un serveur qui ne parle pas et qui vous sert sans rien annoncer coté cuisine rien de mieux assiettes très peu garni et qualité bof assiette de charcuterie basique le plat andouillette et pomme de terre que je deconseille fortement ..... bref passez votre chemin ..... </s> serveur,serveur,1,1
+bel emplacement pour ce restaurant mais quelle deception .... un serveur qui ne parle pas et qui vous sert sans rien annoncer coté cuisine rien de mieux assiettes très peu garni et qualité bof assiette de charcuterie basique le plat andouillette et pomme de terre que je deconseille fortement ..... bref passez votre chemin ..... </s> cuisine,cuisine,1,1
+bel emplacement pour ce restaurant mais quelle deception .... un serveur qui ne parle pas et qui vous sert sans rien annoncer coté cuisine rien de mieux assiettes très peu garni et qualité bof assiette de charcuterie basique le plat andouillette et pomme de terre que je deconseille fortement ..... bref passez votre chemin ..... </s> assiettes,assiettes,1,1
+bel emplacement pour ce restaurant mais quelle deception .... un serveur qui ne parle pas et qui vous sert sans rien annoncer coté cuisine rien de mieux assiettes très peu garni et qualité bof assiette de charcuterie basique le plat andouillette et pomme de terre que je deconseille fortement ..... bref passez votre chemin ..... </s> assiettes,assiettes,1,1
+bel emplacement pour ce restaurant mais quelle deception .... un serveur qui ne parle pas et qui vous sert sans rien annoncer coté cuisine rien de mieux assiettes très peu garni et qualité bof assiette de charcuterie basique le plat andouillette et pomme de terre que je deconseille fortement ..... bref passez votre chemin ..... </s> assiette de charcuterie,assiette de charcuterie,0,1
+bel emplacement pour ce restaurant mais quelle deception .... un serveur qui ne parle pas et qui vous sert sans rien annoncer coté cuisine rien de mieux assiettes très peu garni et qualité bof assiette de charcuterie basique le plat andouillette et pomme de terre que je deconseille fortement ..... bref passez votre chemin ..... </s> andouillette et pomme de terre,andouillette et pomme de terre,1,1
+Une carte hyper simple mais une serveuse complètement perdue. </s> carte,carte,0,2
+Une carte hyper simple mais une serveuse complètement perdue. </s> serveuse,serveuse,1,1
+Des erreurs de prise de commande et une patronne qui refuse de changer les plats sous prétexte qu'elle ne va pas jeter l'assiette et qu'elle l'a fait avec amour mdr. </s> patronne,patronne,1,1
+Apparemment il n'est pas question de perdre de l'argent dans ce restaurant et elle invente des prétextes encensés pour faire passer la pilule.Toute la salle est de mon avis et en colère. </s> restaurant,restaurant,1,1
+"Je vous passe les ""prises de bec"" avec la patronne pour lui faire comprendre que sa réaction est intolérable et non commerçante. </s> patronne",patronne,1,1
+Restaurant a ne pas conseiller et surtout à bannir afin d’éviter que la profession de la restaurant ne soit bafouée par ce genre de pseudo restaurateur qui devrait penser à changer de métier. </s> Restaurant,Restaurant,1,1
+Restaurant a ne pas conseiller et surtout à bannir afin d’éviter que la profession de la restaurant ne soit bafouée par ce genre de pseudo restaurateur qui devrait penser à changer de métier. </s> restaurateur,restaurateur,1,1
+Un cadre très rose mais agréable pour des dîners en couple ou entre amis. </s> cadre,cadre,2,2
+Des assiettes très bien présentées et un bon accueil avec des personnes souriantes. </s> assiettes,assiettes,2,2
+Des assiettes très bien présentées et un bon accueil avec des personnes souriantes. </s> accueil,accueil,2,2
+"Accueil chaleureux, arrière salle voûtée magnifique (ancien rempart de la ville), très bonne cuisine, grillades au feu de bois casiement sous nos yeux, produits de qualité et prix raisonnable. </s> Accueil",Accueil,2,2
+"Accueil chaleureux, arrière salle voûtée magnifique (ancien rempart de la ville), très bonne cuisine, grillades au feu de bois casiement sous nos yeux, produits de qualité et prix raisonnable. </s> arrière salle",arrière salle,2,2
+"Accueil chaleureux, arrière salle voûtée magnifique (ancien rempart de la ville), très bonne cuisine, grillades au feu de bois casiement sous nos yeux, produits de qualité et prix raisonnable. </s> cuisine",cuisine,2,2
+"Accueil chaleureux, arrière salle voûtée magnifique (ancien rempart de la ville), très bonne cuisine, grillades au feu de bois casiement sous nos yeux, produits de qualité et prix raisonnable. </s> produits",produits,2,2
+"Accueil chaleureux, arrière salle voûtée magnifique (ancien rempart de la ville), très bonne cuisine, grillades au feu de bois casiement sous nos yeux, produits de qualité et prix raisonnable. </s> grillades au feu de bois",grillades au feu de bois,2,2
+"l'accueil est agréable; la cuisine correcte, les prix raisonnables, bref c'est bien mais est-ce le nombre de gens, la salle, ... il manque un petit quelque chose pour s'enthousiasmer. </s> accueil",accueil,2,2
+"l'accueil est agréable; la cuisine correcte, les prix raisonnables, bref c'est bien mais est-ce le nombre de gens, la salle, ... il manque un petit quelque chose pour s'enthousiasmer. </s> cuisine",cuisine,0,0
+"l'accueil est agréable; la cuisine correcte, les prix raisonnables, bref c'est bien mais est-ce le nombre de gens, la salle, ... il manque un petit quelque chose pour s'enthousiasmer. </s> salle",salle,1,1
+"Nous y sommes, plat du jour tagliatelles aux fruits de mer, produits frais mais certains caoutchouteux, le service et l'accueil très moyen, saint Jacques bonnes mais riz très sec, bref certainement mieux ailleurs! </s> produits",produits,2,2
+"Nous y sommes, plat du jour tagliatelles aux fruits de mer, produits frais mais certains caoutchouteux, le service et l'accueil très moyen, saint Jacques bonnes mais riz très sec, bref certainement mieux ailleurs! </s> service",service,1,1
+"Nous y sommes, plat du jour tagliatelles aux fruits de mer, produits frais mais certains caoutchouteux, le service et l'accueil très moyen, saint Jacques bonnes mais riz très sec, bref certainement mieux ailleurs! </s> accueil",accueil,1,1
+"Nous y sommes, plat du jour tagliatelles aux fruits de mer, produits frais mais certains caoutchouteux, le service et l'accueil très moyen, saint Jacques bonnes mais riz très sec, bref certainement mieux ailleurs! </s> saint Jacques",saint Jacques,2,2
+"Nous y sommes, plat du jour tagliatelles aux fruits de mer, produits frais mais certains caoutchouteux, le service et l'accueil très moyen, saint Jacques bonnes mais riz très sec, bref certainement mieux ailleurs! </s> riz",riz,1,1
+"Nous y sommes, plat du jour tagliatelles aux fruits de mer, produits frais mais certains caoutchouteux, le service et l'accueil très moyen, saint Jacques bonnes mais riz très sec, bref certainement mieux ailleurs! </s> produits",produits,1,2
+"Nous avons découvert avec par hasard ce cabanon de plage et ce fut une excellente surprise: un accueil des plus chaleureux, des plats très corrects, une ambiance lounge-beach pas surfaite. </s> cabanon de plage",cabanon de plage,2,2
+"Nous avons découvert avec par hasard ce cabanon de plage et ce fut une excellente surprise: un accueil des plus chaleureux, des plats très corrects, une ambiance lounge-beach pas surfaite. </s> accueil",accueil,2,2
+"Nous avons découvert avec par hasard ce cabanon de plage et ce fut une excellente surprise: un accueil des plus chaleureux, des plats très corrects, une ambiance lounge-beach pas surfaite. </s> plats",plats,2,2
+"Nous avons découvert avec par hasard ce cabanon de plage et ce fut une excellente surprise: un accueil des plus chaleureux, des plats très corrects, une ambiance lounge-beach pas surfaite. </s> ambiance",ambiance,2,2
+On voit que l'équipe prend du plaisir à travailler dans ce lieu magique. </s> équipe,équipe,2,2
+On voit que l'équipe prend du plaisir à travailler dans ce lieu magique. </s> lieu,lieu,2,2
+Très bonne table dans une ruelle derrière le port donc sans avoir le défilé des touristes qui regardent votre assiette. </s> table,table,2,2
+"On trouve dans ce restaurant une cuisine provençale parfumée, présentée très joliment et en quantité généreuse. </s> cuisine provençale",cuisine provençale,2,2
+"On trouve dans ce restaurant une cuisine provençale parfumée, présentée très joliment et en quantité généreuse. </s> cuisine provençale",cuisine provençale,2,2
+Le service est très correct Nous avons passé un très bon moment et nous vous recommandons l'endroit. </s> service,service,2,2
+Le service est très correct Nous avons passé un très bon moment et nous vous recommandons l'endroit. </s> endroit,endroit,2,2
+"J'ai mangé avec des amis dans ce restaurant et je trouve que la qualité des produits se sont serieusement dégradé, la salade d'accueil comporte 2 feuilles, le plat principal et le dessert sont baclés dans la présentation. </s> produits",produits,1,1
+"J'ai mangé avec des amis dans ce restaurant et je trouve que la qualité des produits se sont serieusement dégradé, la salade d'accueil comporte 2 feuilles, le plat principal et le dessert sont baclés dans la présentation. </s> salade d'accueil",salade d'accueil,1,1
+"J'ai mangé avec des amis dans ce restaurant et je trouve que la qualité des produits se sont serieusement dégradé, la salade d'accueil comporte 2 feuilles, le plat principal et le dessert sont baclés dans la présentation. </s> plat principal",plat principal,1,1
+"J'ai mangé avec des amis dans ce restaurant et je trouve que la qualité des produits se sont serieusement dégradé, la salade d'accueil comporte 2 feuilles, le plat principal et le dessert sont baclés dans la présentation. </s> dessert",dessert,1,1
+"De plus, l'accueil de la part du patron est froid contrairement aux serveurs très gentils. </s> accueil",accueil,1,1
+"De plus, l'accueil de la part du patron est froid contrairement aux serveurs très gentils. </s> serveurs",serveurs,2,2
+"Les serveuses étaient plutôts agréables mais pas une cacahuète ou une olive à l'heure de l'apéritif malheureusement, pas d'assiette apéritive non plus. </s> serveuses",serveuses,2,2
+Incompréhensible pour un bar restaurant... </s> bar restaurant,bar restaurant,1,1
+Comment peut-on appeler ça un restaurant ? </s> restaurant,restaurant,1,1
+"Un accueil et un service déplorables, une cuisine médiocre n'ayant rien à envier au manque de fraîcheur du buffet notamment. </s> accueil",accueil,1,1
+"Un accueil et un service déplorables, une cuisine médiocre n'ayant rien à envier au manque de fraîcheur du buffet notamment. </s> service",service,1,1
+"Un accueil et un service déplorables, une cuisine médiocre n'ayant rien à envier au manque de fraîcheur du buffet notamment. </s> cuisine",cuisine,1,1
+"Un accueil et un service déplorables, une cuisine médiocre n'ayant rien à envier au manque de fraîcheur du buffet notamment. </s> buffet",buffet,1,1
+Dans cet établissement je me suis sentie chez moi ayant eu un restaurant du même genre. </s> établissement,établissement,2,2
+"Une cuisine savoureuse faite avec amour, j'y retourne dés que je peux pour moi c'est un vrai restaurant </s> cuisine",cuisine,2,2
+"Une cuisine savoureuse faite avec amour, j'y retourne dés que je peux pour moi c'est un vrai restaurant </s> restaurant",restaurant,2,2
+"La carte est très large, de bons plats chauds et bons ! </s> carte",carte,2,2
+"La carte est très large, de bons plats chauds et bons ! </s> plats",plats,2,2
+"Trois cocottes de moules marinières arrivent à table, à l'ouverture, les moules de l'une d'entre elles sont recouvertes de tomates et pas les autres. </s> moules",moules,0,1
+Certaines moules sont trop cuites d'autres pas assez. </s> moules,moules,1,1
+Les frites ont goût d'huile. </s> frites,frites,1,1
+"Au milieu de ma cocotte de moule marinière j'ai la désagréable surprise de trouver un demi citron, peau comprise, déchiqueté. </s> cocotte de moule marinière",cocotte de moule marinière,1,1
+La note qui nous est présentée est défalquée d'une cocotte alors que plus personne ne souhaite manger ces moules douteuses. </s> moules,moules,1,1
+Nous nous ferons ensuite de nouveau insulter par le responsable avant qu'il accepte d'encaisser nos boissons et de nous laisser partir. </s> responsable,responsable,1,1
+Nous ne nous attendions pas à de la grande cuisine dans cet endroit très touristique mais nous aurions néanmoins apprécié de pouvoir déjeuner sans mettre notre santé en danger et sans nous faire manquer de respect par dessus le marché! </s> endroit,endroit,1,1
+Premiere fois dans ce restaurant dont on nous disait pourtant du bien. </s> restaurant,restaurant,1,0
+"Les plats proposés sont originaux, les saveurs intéréssantes mais le rapport qualité prix n'est pas au rendez vous. </s> plats",plats,2,2
+"18,50 € un risotto, où j'ai cherché du saumon fumé pourtant annoncé, que je n'ai hélas pas trouvé, c'est bien trop cher aussi bon soit il. </s> risotto",risotto,1,1
+"18,50 € un risotto, où j'ai cherché du saumon fumé pourtant annoncé, que je n'ai hélas pas trouvé, c'est bien trop cher aussi bon soit il. </s> risotto",risotto,1,1
+On a payé le cadre coloré et le port touristique de la Cotinière. </s> cadre,cadre,0,2
+On a payé le cadre coloré et le port touristique de la Cotinière. </s> port touristique,port touristique,0,2
+Si il n'y avait que cela ça aurait pu aller mais le service a été catastrophique. </s> service,service,1,1
+"La prise de commande par le patron est venue bien longtemps après la fin de l'apéritif, et le pire a été le service du vin quand nous avions presque fini notre plat. </s> patron",patron,1,1
+"La prise de commande par le patron est venue bien longtemps après la fin de l'apéritif, et le pire a été le service du vin quand nous avions presque fini notre plat. </s> service du vin",service du vin,1,1
+Malgré une cuisine gouteuse nous n'y retournerons pas. </s> cuisine,cuisine,2,2
+Restaurant très sympa. </s> Restaurant,Restaurant,2,2
+Petite salle ambiance plage Oléronaise. </s> ambiance,ambiance,0,2
+Deco et tables raffinées (nappes et serviettes en tissus...). </s> Deco,Deco,2,2
+Personnel très souriant et chaleureux. </s> Personnel,Personnel,2,2
+Menus un peu chers mais très bons. </s> Menus,Menus,0,0
+Menus un peu chers mais très bons. </s> Menus,Menus,2,0
+Cela dit pour du tout fait maison avec des produits frais de très bonne qualité cela reste très intéressant. </s> produits,produits,2,2
+Plats copieux et bien présentés. </s> Plats,Plats,2,2
+"Très bons, surtout les desserts (excellents). </s> desserts",desserts,2,2
+Coctails très bons mais un peu cher pour la quantité (5/8€) </s> Coctails,Coctails,2,2
+Coctails très bons mais un peu cher pour la quantité (5/8€) </s> Coctails,Coctails,0,2
+Coctails très bons mais un peu cher pour la quantité (5/8€) </s> Coctails,Coctails,1,2
+Restaurant ouvert hors saison. </s> Restaurant,Restaurant,0,0
+"Terrasse à l'ombre des arbres très agréable , jolies assiettes, poissons bien préparés, belle décoration et service sympathique. </s> Terrasse",Terrasse,2,2
+"Terrasse à l'ombre des arbres très agréable , jolies assiettes, poissons bien préparés, belle décoration et service sympathique. </s> assiettes",assiettes,2,2
+"Terrasse à l'ombre des arbres très agréable , jolies assiettes, poissons bien préparés, belle décoration et service sympathique. </s> poissons",poissons,2,2
+"Terrasse à l'ombre des arbres très agréable , jolies assiettes, poissons bien préparés, belle décoration et service sympathique. </s> décoration",décoration,2,2
+"Terrasse à l'ombre des arbres très agréable , jolies assiettes, poissons bien préparés, belle décoration et service sympathique. </s> service",service,2,2
+"L'adresse est trompeuse, le restaurant n'est pas à Castelnaudary mais dans un petit village juste après. </s> restaurant",restaurant,0,1
+"Appelez la patronne pour savoir, elle est adorable. </s> patronne",patronne,2,2
+"Et faites le détour, pour un cassoulet top et généreux. </s> cassoulet",cassoulet,2,2
+"Et faites le détour, pour un cassoulet top et généreux. </s> cassoulet",cassoulet,2,2
+Avec un petit verre de Minervois. </s> verre,verre,2,2
+ET un petit fois gras juste avant. </s> fois gras,fois gras,2,1
+"accueil sympathique, cuisine de très bonne qualité mais parfois la main est un peu lourde sur le sel, petit problème rectifié depuis. </s> accueil",accueil,2,2
+"accueil sympathique, cuisine de très bonne qualité mais parfois la main est un peu lourde sur le sel, petit problème rectifié depuis. </s> cuisine",cuisine,2,2
+"Un cassoulet franchement ""infect"", qui fait honte au nom porté par le restaurant et pour un soi-disant ""restaurant traditionnel servant une cuisine de Chef faite à partir de produit brut"" (sic) ... qualifié de ""Cassoulet fait Maison"" !. </s> cassoulet",cassoulet,1,1
+"Un cassoulet franchement ""infect"", qui fait honte au nom porté par le restaurant et pour un soi-disant ""restaurant traditionnel servant une cuisine de Chef faite à partir de produit brut"" (sic) ... qualifié de ""Cassoulet fait Maison"" !. </s> cuisine",cuisine,1,1
+A éviter tant pour la cuisine que pour le service. </s> cuisine,cuisine,1,1
+A éviter tant pour la cuisine que pour le service. </s> service,service,1,1
+Repas totalement décevant et cher! </s> Repas,Repas,1,1
+Repas totalement décevant et cher! </s> Repas,Repas,1,1
+"Pour deux entrées, deux plats et deux desserts à la carte avec une bouteille de vin nous avons trouvé le repas assez cher pour Castelnaudary (92€). </s> repas",repas,1,1
+En plus tout provenait de conserves ou il s'agissait de plat surgelés... </s> plat,plat,1,1
+"Je déconseille totalement ce ""restaurant"". </s> restaurant",restaurant,1,1
+Service gentil. </s> Service,Service,2,2
+Pizza honnêtes mais éviter le tiramisu. </s> Pizza,Pizza,0,0
+Pizza honnêtes mais éviter le tiramisu. </s> tiramisu,tiramisu,1,1
+Attention la bière est italienne... </s> bière,bière,1,1
+Un lieu à connaitre !. </s> lieu,lieu,2,2
+Cuisine excellente avec de la recherche. </s> Cuisine,Cuisine,2,2
+Cuisine excellente avec de la recherche. </s> Cuisine,Cuisine,2,2
+Bravo pour le chef et la patissière ; nous reviendrons pour la langue de Bœuf ! </s> langue de Bœuf,langue de Bœuf,2,2
+Très bonne cuisine traditionnelle dans un endroit typique. </s> cuisine traditionnelle,cuisine traditionnelle,2,2
+Dommage pour ce petit restaurant sympa. </s> restaurant,restaurant,2,2
+Le repas est juste indécent! </s> repas,repas,1,1
+Rien de bon même la pomme de terre n'était pas cuite! </s> pomme de terre,pomme de terre,1,1
+"Ne surtout pas y aller pour bien manger, par contre on se laisse bien embarquer dans l'ambiance de ces années là. </s> ambiance",ambiance,2,2
